@@ -1,0 +1,2260 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "1fc9cf9e-97f1-11eb-8820-541379669c27",
+    "deck_config_uuid": "1fc9cf9f-97f1-11eb-8820-541379669c27",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "1fc9cf9f-97f1-11eb-8820-541379669c27",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Español",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 8
+            },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "ánfora2.jpg"
+    ],
+    "mid": 1591302800279,
+    "name": "Español",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Básico (y carta invertida)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ablación",
+                "Extirpación de cualquier parte del cuerpo. // (Derecho) Sacrificio o menoscabo de un derecho."
+            ],
+            "guid": "g?|t99{=TH",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ablución",
+                "Lavatorio (acción de lavar) // Lavatorio ritual del cuerpo, con motivo de purificarlo."
+            ],
+            "guid": "K(W4%#CZQn",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Abulia",
+                "Pasividad, desinterés, falta de voluntad"
+            ],
+            "guid": "O*&?zQXWI&",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adarme",
+                "Cantidad o porción mínima de algo"
+            ],
+            "guid": "jF3`.ihau`",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adefesio",
+                "Persona o cosa ridícula, extravagante o muy fea."
+            ],
+            "guid": "uAI!>fcMV^",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adlátere",
+                "Dicho de una cosa: aledaña o supeditada a otra. // Persona subordinada a otra de la que parece inseparable."
+            ],
+            "guid": "OXjIP>RpDA",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adusto",
+                "Poco tratable, huraño. // Seco, severo, desabrido."
+            ],
+            "guid": "jMqaaZ]|yu",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anchura",
+                "La menor de las dos dimensiones de una figura plana, en contraposición a la mayor o longitud. // En objetos tridimensionales, la segunda en magnitud. // En una superficie, su dimensión considerada de izquierda a derecha o viceversa."
+            ],
+            "guid": "Ft=T0.dUAB",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ánfora",
+                "<img src=\"ánfora2.jpg\">"
+            ],
+            "guid": "IkA:#uiV*g",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anodino",
+                "Insignificante, ineficaz, insustancial."
+            ],
+            "guid": "m=O?r1Bthy",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apatía",
+                "Impasibilidad del ánimo. // Dejadez, indolencia, falta de vigor o energía."
+            ],
+            "guid": "w$`W(4zxS#",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apolíneo",
+                "Que posee las cualidades de serenidad y elegante equilibrio atribuidas a Apolo, en contraposición a \"dionísico\"."
+            ],
+            "guid": "gft/1e0{d1",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Argot",
+                "Jerga, jerigonza. // Lenguaje especial entre personas de un mismo oficio o actividad."
+            ],
+            "guid": "r=%3>N0I2)",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Artificio",
+                "Arte, primor o ingenio con que está hecho algo. // Predominio de la elaboración artística sobre la naturalidad. // Artefacto (objeto construido para un determinado fin). // Disimulo, cautela, doblez."
+            ],
+            "guid": "Inr=)&s0iV",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Asechanza",
+                "Engaño o artificio para hacer daño a alguien."
+            ],
+            "guid": "Mk1,c~g-~p",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Avieso",
+                "Torcido, fuera de regla."
+            ],
+            "guid": "urpx94`$Hg",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Barahúnda",
+                "Confusión grande, con estrépito y notable desorden."
+            ],
+            "guid": "k0A6VskpE>",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bártulo",
+                "\"Coger los _______\" se usa para intensificar el enfado o la precipitación que acompañan a la decisión de irse."
+            ],
+            "guid": "AY=Ov}%nHM",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Basurita",
+                "Partícula de suciedad, especialmente la que se mete en el ojo."
+            ],
+            "guid": "o)}4^Z>o%a",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Batiburrillo",
+                "Mezcla desordenada de cosas que no guardan relación entre sí // En la conversación y en los escritos, mezcla de cosas inconexas y que no vienen a propósito (¡Santos ____________, Batman!)"
+            ],
+            "guid": "I4uggk9VR%",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bisbisear",
+                "Hablar una persona en voz muy baja, casi susurrando."
+            ],
+            "guid": "b^K]OkZ56r",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bizarro",
+                "Valiente"
+            ],
+            "guid": "QTc3knpVV)",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bluf",
+                "Persona o cosa revestida de un prestigio falto de fundamento. // Fanfarronada, acción intimidatoria hecha por alguien que no cuenta con los medios para cumplir su amenaza."
+            ],
+            "guid": "y4KV<D)RdV",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bocado",
+                "Porción de comida que cabe en la boca."
+            ],
+            "guid": "IF@aAUg<^Q",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cabestrillo",
+                "Banda o sujeción pendiente del cuello o del hombro para inmovilizar un brazo lesionado."
+            ],
+            "guid": "p&=<J$?%et",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Calavera",
+                "Hombre disipado y juerguista."
+            ],
+            "guid": "tk|7_3kEr&",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Calaverada",
+                "Acción propia de un calavera."
+            ],
+            "guid": "dBu`_3TjrM",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Calvario",
+                "Sucesión de adversidades y pesadumbres."
+            ],
+            "guid": "bMtG_]tPu{",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Canfínfora",
+                "[Venezuela] Alboroto, bullicio."
+            ],
+            "guid": "qIHS<(7q)5",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Carcomer",
+                "Consumir poco a poco la salud, la virtud, etc."
+            ],
+            "guid": "n<nI`!t;J[",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caterva",
+                "Grupo de personas o animales que se considera despreciable."
+            ],
+            "guid": "b$re,QOly$",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cerril",
+                "(de cerro) Dicho de un terreno, áspero y escabroso. // Dicho de una persona, que se obstina en una actitud o parecer, sin admitir trato ni razonamiento. // Grosero, tosco, rústico."
+            ],
+            "guid": "q:UNY7RJe?",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Concomitante",
+                "Que aparece o actúa conjuntamente con otra cosa."
+            ],
+            "guid": "nZT<}H8HZS",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Consuetudinario",
+                "Que es de costumbre. // Habitual, reincidente."
+            ],
+            "guid": "c;OVR$`##n",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Contaje",
+                "Acción y efecto de contar."
+            ],
+            "guid": "wu4=Ao[1~M",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Conticinio",
+                "Hora de la noche en que todo está en silencio."
+            ],
+            "guid": "m<%XyV^iZA",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cortoplacista",
+                "Que consigue efectos o resultados a corto plazo."
+            ],
+            "guid": "x8Z@ng_;tt",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cotejar",
+                "Confrontar algo con otra u otras cosas, o compararlas teniéndolas a la vista."
+            ],
+            "guid": "DcgpLl?,&<",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Crápula",
+                "Disipación, libertinaje. // Embriaguez o borrachera. // Hombre de vida licenciosa."
+            ],
+            "guid": "DCH/0`(h%0",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Crapuloso",
+                "Dado a la crápula."
+            ],
+            "guid": "k#WW_/&}l|",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Craquear",
+                "[del inglés <i>to crack</i>] Romper, mediante el aumento de la temperatura y a veces con ayuda de catalizadores, las moléculas de ciertos hidrocarburos con el objeto de aumentar la proporción de los más útiles."
+            ],
+            "guid": "wdV~qc~Vo^",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Crascitar",
+                "Dicho del cuervo, graznar."
+            ],
+            "guid": "mcZuW1)LG[",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Craso",
+                "[error, ignorancia] Que es tan grande que no se puede perdonar o disculpar."
+            ],
+            "guid": "KbI(:e_hCF",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cuitado",
+                "Afligido, desventurado."
+            ],
+            "guid": "MkJv:+|b7U",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cuodlibeto",
+                "(\"cualquier cosa, lo que se quiera\") Discusión sobre un punto científico elegido al arbitrio del autor. // Uno de los ejercicios en las antiguas universidades, en que disertaba el graduando sobre materia elegida a su gusto. // Dicho mordaz, agudo a veces, trivial e insulso las más, no dirigido a ningún fin útil, sino a entretener."
+            ],
+            "guid": "nG@()TczNV",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Barruntar",
+                "Prever, conjeturar o presentir algo por alguna señal o indicio"
+            ],
+            "guid": "1dl7H",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deletéreo",
+                "Mortífero, venenoso."
+            ],
+            "guid": "wiC;pF~N)T",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deuteragonista",
+                "En las obras literarias o análogas, personaje que sigue en importancia al protagonista."
+            ],
+            "guid": "nT{@|+j0El",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dicterio",
+                "Dicho denigrativo que insulta y provoca."
+            ],
+            "guid": "I&@?%eO([i",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dionísico",
+                "Que posee las cualidades de fuerza vital, ímpetu y arrebato atribuidas a Dionisio, en contraposición a \"apolíneo\"."
+            ],
+            "guid": "EaKmuf)qWl",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dislate",
+                "Disparate."
+            ],
+            "guid": "p5oA~yvQ&B",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Doblez",
+                "Astucia o malicia en la manera de obrar, dando a entender lo contrario de lo que se siente."
+            ],
+            "guid": "P#[$sk7^j:",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dosalbo",
+                "Caballería de dos patas blancas."
+            ],
+            "guid": "h?M1*(nmIL",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Duermevela",
+                "Sueño ligero en que se halla el que está dormitando. // Sueño fatigoso y frecuentemente interrumpido."
+            ],
+            "guid": "FL4p3g4otS",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ebúrneo",
+                "Hecho de marfil, o parecido al marfil."
+            ],
+            "guid": "ogK]~OkxgV",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ecdótica",
+                "Disciplina que estudia los medios y los fines de la edición de textos."
+            ],
+            "guid": "K)j342x_,q",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Efugio",
+                "Evasión, salida, recurso para sortear una dificultad."
+            ],
+            "guid": "Alk]E/=f-_",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enconado",
+                "Encarnizado, violento y muy porfiado."
+            ],
+            "guid": "bLnKX4&>.#",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ermar",
+                "(De `yermo`) Destruir, desolar, dejar yerma una ciudad, tierra, etcétera."
+            ],
+            "guid": "fw}p~WRfbW",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Errabundo",
+                "Que va de un lugar a otro sin tener asiento fijo."
+            ],
+            "guid": "eW@K`)<;qQ",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Esperpento",
+                "Persona, cosa o situación grotescas o estrafalarias."
+            ],
+            "guid": "H*gA/}_y[A",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Estantigua",
+                "Procesión de fantasmas, o fantasma, que se ofrece a la vista por la noche, causando pavor y espanto. // Persona muy alta y seca, mal vestida."
+            ],
+            "guid": "m&X@ITMSb3",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ensuelar",
+                "Tocar suelo."
+            ],
+            "guid": "iCfzN=$PTd",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escrúpulo",
+                "Duda o recelo inquietante para la conciencia sobre si algo es bueno o se debe hacer desde un punto de vista moral. // Exactitud o rigor en el cumplimiento del deber o en la realización de algo."
+            ],
+            "guid": "d|fd=E!8CH",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Estoicismo",
+                "Fortaleza y dominio sobre la propia sensibilidad."
+            ],
+            "guid": "u8BLXQ@WRp",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eviterno",
+                "Que, habiendo comenzado en el tiempo, no tendrá fin."
+            ],
+            "guid": "Ol1B(-tc.O",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exánime",
+                "Sin señal de vida o sin vida. // Sumamente debilitado, sin aliento, desmayado."
+            ],
+            "guid": "Q5I>Qrmwt2",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Extramuros",
+                "Fuera del recinto de una ciudad o población."
+            ],
+            "guid": "rE/~uIQv+~",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exiguo",
+                "Insuficiente, escaso."
+            ],
+            "guid": "g=l29",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arrebol",
+                "Color rojo, especialmente el de las nubes iluminadas por los rayos del sol."
+            ],
+            "guid": "LQuvS91vA.",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escampar",
+                "Cesar de llover. // Cesar una operación, suspender el empeño con que se intenta hacer algo. // Despejar, desembarazar un sitio. [¿descampado?]"
+            ],
+            "guid": "sN)e$5z0wv",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cadejo",
+                "Parte del cabello muy enredada que se separa para desenredarla y peinarla. // Nudo de espinas que rueda con el viento, por el campo&nbsp; traviesa, sin destino. [No en la RAE]"
+            ],
+            "guid": "GV$B|07L$^",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Carcaj",
+                "Cesta para llevar flechas."
+            ],
+            "guid": "sLgF@s4-IK",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Evanescente",
+                "Que se desvanece o esfuma."
+            ],
+            "guid": ":[/%**0B#",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Desparpajo",
+                "Suma facilidad y desembarazo en el hablar o en las acciones."
+            ],
+            "guid": "rpEHEez$EB",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Desparpajar",
+                "Dispersar, espacir, desparramar. // Hablar mucho y sin concierto."
+            ],
+            "guid": "AE|6tPkh%l",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Atrabiliario",
+                "De genio destemplado y violento."
+            ],
+            "guid": "gYo6u(t]Wi",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Destripar",
+                "Interrumpir el relato que está haciendo alguien de algún suceso, chascarrillo, enigma, etc., anticipando el descenlace o la solución."
+            ],
+            "guid": "t)7wl+a(=#",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Abolengo",
+                "Ascendencia de abuelos o antepasados. // Larga tradición de algo o alguien. // Ascendencia ilustre, linaje."
+            ],
+            "guid": "XwIjF",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Disnea",
+                "Dificultad de respirar."
+            ],
+            "guid": "I0f|4",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Botarate",
+                "Persona alborotada y de poco juicio. // Persona derrochadora, manirrota."
+            ],
+            "guid": "SGU{E",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fecundia",
+                "Facilidad y desenvoltura en el hablar."
+            ],
+            "guid": "t>oZr>9-YO",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fatuo",
+                "Lleno de presunción o vanidad infundada y ridícula."
+            ],
+            "guid": "l0[~eCwa_f",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Férula",
+                "Autoridad o poder despótico. \"Estar uno bajo la ______ de otro.\""
+            ],
+            "guid": "fnSV0%lgF?",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fifí",
+                "Persona presumida y que se ocupa de seguir las modas."
+            ],
+            "guid": "P0}V*Cwtsx",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Friasón",
+                "Mucho frío."
+            ],
+            "guid": "Qc(}*p9h?",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fruslería",
+                "Cosa de poco valor o entidad. // Dicho o hecho de poca sustancia."
+            ],
+            "guid": "O;7>Nmy-7>",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fútil",
+                "De poco aprecio&nbsp; o importancia."
+            ],
+            "guid": "um]JNQ95j2",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Galactóforo",
+                "[Anatomía] Dicho de un conducto: que es de aquellos por donde pasa la leche hasta llegar a los pezones de las mamas."
+            ],
+            "guid": "JMSWL2Q.3&",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gaudeamus&nbsp;",
+                "[\"Alegrémonos\"] Fiesta, regocijo, comida y bebida abundantes."
+            ],
+            "guid": "b`JI0{*hFH",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hetaira",
+                "En la antigua grecia, cortesana, a veces de elevada consideración social. // Prostituta."
+            ],
+            "guid": "ux!.)h#>dn",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Heterónimo",
+                "En lingüística y dicho de un vocablo: que se contrapone a otro de distinta raíz en algún rasgo morfológico, generalmente el género; e.g. `caballo` y `yegua`."
+            ],
+            "guid": "B^82FGH8An",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hórrido",
+                "Que provoca horror."
+            ],
+            "guid": "nR27|>fU`v",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Idiocente",
+                "Esta palabra se deja al gusto del consumidor."
+            ],
+            "guid": "d^63a`y4}@",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Idiocia",
+                "[Medicina] Trastorno caracterizado por una deficiencia muy profunda de las capacidades mentales, congénita o adquirida en las primeras etapas de la vida."
+            ],
+            "guid": "IoYeS/a5q`",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Impeler",
+                "Impulsar."
+            ],
+            "guid": "z>0mTR(|cM",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Imprecar",
+                "Proferir palabras con que se expresa el vivo deseo de que alguien sufra mal, o daño."
+            ],
+            "guid": "g7$j-P8?+q",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inane",
+                "Vano, fútil, inútil."
+            ],
+            "guid": "d<n0HUEsd#",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Incólume",
+                "Sano, sin lesión ni menoscabo."
+            ],
+            "guid": "iBEE${G;to",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Indolente",
+                "Que no se afecta o conmueve. // Perezoso. // Insensible, que no siente dolor."
+            ],
+            "guid": "KQ|8oZ:Q4i",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Instigar",
+                "Inducir a alguien a una acción, generalmente considerada como negativa. // Tramar o preparar con astucia algo."
+            ],
+            "guid": "Mt00k!Bq9k",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inefable",
+                "Que no se puede expresar con palabras."
+            ],
+            "guid": "l#N#a2<GGj",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inenarrable",
+                "Que no se puede narrar con palabras."
+            ],
+            "guid": "HK#<66bm7u",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Infamante",
+                "Que causa deshonra."
+            ],
+            "guid": "D,KhLa+f/1",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Infundir",
+                "Causar en el ánimo un impulso moral o afectivo."
+            ],
+            "guid": "BYl4)F-(p:",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inocuo",
+                "Que no hace daño."
+            ],
+            "guid": "kIxHqhb+7Y",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Insuflar",
+                "Introducir en un órgano o en una cavidad un gas, un líquido, o una sustancia pulverizada. // Infundir a alguien algo inmaterial, como un sentimiento o una idea."
+            ],
+            "guid": "g+HH(E]nUq",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Insulso",
+                "Insípido. // Falto de gracia o viveza."
+            ],
+            "guid": "Ge`t&DGH}c",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Intercolumnio",
+                "[Arquitectura] Espacio entre dos columnas."
+            ],
+            "guid": "fWy]6&Ia>{",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Invectiva",
+                "Discurso o escrito acre y violento contra algo."
+            ],
+            "guid": "uJw?B}%XR[",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Irrefregable",
+                "Que no se puede contradecir o refutar."
+            ],
+            "guid": "m=Mg@8`kib",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acre",
+                "Áspero y picante al gusto y al olfato, como el sabor y el olor del ajo, del fósforo, etc. // Dicho del genio o de las palabras: áspero y desabrido. // [Med.] Dicho del calor febril: Acompañado de una sensación como de picor."
+            ],
+            "guid": "y;_=lluz3`",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acérrimo",
+                "Superlativo irregular de `acre`. // Muy fuerte, vigoroso o tenaz. // Intransigente, fanático, extremado."
+            ],
+            "guid": "J:@n@-I=>8",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Intransigente",
+                "Que no transige."
+            ],
+            "guid": "vgTw%45mb]",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Condescender",
+                "Acomodarse por bondad o conveniencia al gusto y voluntad de alguien. // Aceptar o tolerar con suficiencia o desdén."
+            ],
+            "guid": "C.PJ,hnK7P",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Elucubrar",
+                "Elaborar una divagación complicada, con apariencia de profundidad. // Imaginar sin mucho fundamento."
+            ],
+            "guid": "f|qB6",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Idiosincracia",
+                "Rasgos, temperamento, carácter, etc., distintivos y propios de un individuo&nbsp; o una colectividad."
+            ],
+            "guid": "c{@3.`Lwc{",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jamelgo",
+                "Caballo flaco y desgarbado, por hambriento."
+            ],
+            "guid": "moG$}4me?5",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jitanjáfora",
+                "Texto carente de sentido cuyo valor estético radica en la sonoridad o en el poder evocador de las palabras, reales o inventadas, que lo componen."
+            ],
+            "guid": "pq![[%;p6d",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Letraherido",
+                "Que siente una pasión extremada por la literatura."
+            ],
+            "guid": "PtpYmFw$Dh",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lívido",
+                "Intensamente pálido. // Amoratado (de un color que tira al morado)."
+            ],
+            "guid": "iBb0P>WQ8~",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lubricidad",
+                "Cualidad de lúbrico."
+            ],
+            "guid": "pYpWhrhYg_",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lúbrico",
+                "Propenso al vicio, y en especial a la lujuria."
+            ],
+            "guid": "xI^fz>@:*X",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Malversar",
+                "Apropiarse o destinar los caudales públicos a un uso ajeno a su función.<div><br></div><div>también</div><div><br></div><div>Apropiarse de los caudales públicos o destinarlos a un uso ajeno a su función.</div>"
+            ],
+            "guid": "PEaxfz+e6V",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mamotreto",
+                "[\"Criado por su abuela\"] Armatoste. // Libro o legajo muy abultado, principalmente cuando es irregular y deforme."
+            ],
+            "guid": "Gi#p2.oC?d",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Maquiavélico",
+                "Que actúa con astucia y doblez."
+            ],
+            "guid": "Q=V2g[k5IE",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mancillar",
+                "Manchar, especialmente el honor de alguien."
+            ],
+            "guid": "kMG7iXmZ(-",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Maquinación",
+                "Proyecto o asechanza artificiosa y oculta, dirigida regularmente a mal fin."
+            ],
+            "guid": "JILbxYt`hv",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Meridional",
+                "Perteneciente o relativo al sur o mediodía."
+            ],
+            "guid": "kE<%7A[`XP",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metamorfismo",
+                "[Geología] Transformación natural ocurrida en un mineral o una roca luego de su consolidación primitiva."
+            ],
+            "guid": "Kg[Z`?$-=J",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mirmecología",
+                "Rama de la entomología que trata de las hormigas."
+            ],
+            "guid": "MG#41MU~&~",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mocosuena",
+                "Atendiendo más al sonido que a la significación de las voces. (e.g. \"traducir _________\")"
+            ],
+            "guid": "lQZ$BFsuU?",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mojigato",
+                "Que muestra exagerados escrúpulos morales o religiosos."
+            ],
+            "guid": "vSt3OQZMTa",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Obsecuencia",
+                "Sumisión, amabilidad, condescendencia."
+            ],
+            "guid": "s7f6;=G@*d",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Opúsculo",
+                "Obra científica o literaria de poca extensión."
+            ],
+            "guid": ";HA{g_p~O",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Oxímoron",
+                "Combinación, en una misma estructura sintáctica, de dos palabras o expresiones de significado opuesto que originan un nuevo sentido, e.g. \"un silencio atronador.\""
+            ],
+            "guid": "G,-|m!-%75",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Clandestino",
+                "Secreto, oculto, y especialmente hecho o dicho secretamente por temor a la ley o para eludirla."
+            ],
+            "guid": "M{kX{(K_P*",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Desandar",
+                "Recorrer retrocediendo el camino andado."
+            ],
+            "guid": "QJDj5.nEai",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pantagruélico",
+                "Dicho de una comida: en cantidad excesiva"
+            ],
+            "guid": "l2dsA`4H)B",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Parpar",
+                "Dicho de un pato: dar graznidos."
+            ],
+            "guid": "huCN_t%iMp",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Patán",
+                "Hombre zafio y tosco."
+            ],
+            "guid": "v+`1.j|mtE",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Patialbo",
+                "Animal de cuatro patas blancas."
+            ],
+            "guid": "Gl>;Db:`Pj",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Patibulario",
+                "De apariencia repugnante y aviesa, cual reo enfilando hacia el patíbulo."
+            ],
+            "guid": "H^*V|Dv8Eb",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pazguato",
+                "Simple, que se pasma o admira de lo que ve u oye."
+            ],
+            "guid": "bEECtaRp3",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Perfidia",
+                "Deslealtad, traición, o quebrantamiento de la fe debida."
+            ],
+            "guid": "BR7]XL~KYh",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Plausible",
+                "Digno o merecedor de aplauso. // Atendible, admisible, recomendable."
+            ],
+            "guid": "vRo*uJDGIF",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Plúmbeo",
+                "De plomo o con alguna cualidad del plomo. // Muy pesado o aburrido."
+            ],
+            "guid": "cvSQYv;y}A",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Plusmarquista",
+                "Persona que ostenta la mejor marca en una especialidad atlética."
+            ],
+            "guid": "N>mc)bMIua",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Prevalente",
+                "Preponderante, dominante. // Duradero, persistente."
+            ],
+            "guid": "gvMElG/:p_",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pizpireto",
+                "Alegre, vivaz, y algo coqueto."
+            ],
+            "guid": "cFFIO;j3k(",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Promover",
+                "Impulsar el desarrollo o realización de algo. // Ascender a alguien a un empleo o categoría superiores."
+            ],
+            "guid": "Ejzvk0z1T5",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Propiciación",
+                "Acción agradable a Dios, con que se le mueve a piedad y misericordia."
+            ],
+            "guid": "jYL_`A!a~_",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pudibundez",
+                "Afectación o exageración del pudor."
+            ],
+            "guid": "oySeAj|v*W",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pundonor",
+                "Sentimiento que impulsa a una persona a mantener su buena fama y a superarse."
+            ],
+            "guid": "eaboA]c|?B",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Recensión",
+                "Noticia o reseña de una obra literaria o científica."
+            ],
+            "guid": "F{Hpxh`(!O",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Reconcomer",
+                "Desasosegarse por una molestia moral. // Dicho de un problema, una preocupación, etc: desazonar, incomodar a alguien. // Restregarse a causa de un picor o comezón."
+            ],
+            "guid": "bZ/~Cy{?/F",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Redomado",
+                "Que tiene en alto grado la cualidad negativa que se le atribuye, e.g. \"es un mentiroso ________\""
+            ],
+            "guid": "xE@E/n@%@^",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Remitir",
+                "Enviar algo a determinada persona en otro lugar. // Perdonar, alzar la pena, o liberar de una obligación."
+            ],
+            "guid": "K1*JG3~-*&",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Resolana",
+                "Luz y calor producidos por la reverberación del sol en un lugar que está a la sombra."
+            ],
+            "guid": "biYoe.+a89",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rezumar",
+                "Dicho de un sólido o de un líquido: trazumar. // Dicho de una cosa: traslucirse y susurrarse. // Como verbo transitivo: manifestar o dejar traslucir una cualidad o sentimiento."
+            ],
+            "guid": "pr,-=6K#.i",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Remiso",
+                "Flojo, dejado o detenido en la resolución o determinación de algo. // Dicho de una calidad física: que tiene escasa actividad."
+            ],
+            "guid": "HU2P>~D-8t",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rimbombar",
+                "Retumbar, resonar, sonar mucho o hacer eco."
+            ],
+            "guid": "AvDvfx5;3",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Roquedal",
+                "Lugar abundante en piedras."
+            ],
+            "guid": "EAe2=EU3>p",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Serendipia",
+                "Hallazgo valioso que se produce de manera casual o accidental."
+            ],
+            "guid": "j+2X#k*Im[",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Silente",
+                "Silencioso, tranquilo, sosegado."
+            ],
+            "guid": "Oa|12%<0JQ",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sojuzgar",
+                "Sujetar o dominar con violencia algo o alguien."
+            ],
+            "guid": "CN/K:_+T>)",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Subterfugio",
+                "Efugio, escapatoria, excusa artificiosa."
+            ],
+            "guid": "n=P<>IQXi2",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Susurrar",
+                "Hablar quedo, produciendo un murmullo. // Empezarse a decir o divulgar algo secreto o que no se sabía. // Dicho del aire, de un arroyo, etc: producir un ruido suave y remiso."
+            ],
+            "guid": "fBUyzKFz4`",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tisquismiquis",
+                "Escrúpulos o reparos vanos o de poquísima importancia."
+            ],
+            "guid": "Q[1Vu+H/;P",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trabucar",
+                "Trastornar, descomponer el buen orden o colocación que tiene algo, volviendo lo de arriba abajo o lo de un lado al otro. // Pronunciar o escribir equivocadamente unas letras o palabras por otras."
+            ],
+            "guid": "k7)iH&4)8O",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Transigir",
+                "Consentir en un parte con lo que no se cree justo, razonable o verdadero, a fin de acabar con una diferencia. // Ajustar algún punto dudoso o litigioso, conviniendo las partes voluntariamente en algún medio que componga y parta la diferencia de la disputa."
+            ],
+            "guid": "p~G<C|w>u{",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trasegar",
+                "Mudar las cosas de un lugar a otro, y en especial líquido de una vasija a la otra. // Beber en cantidad vino y licores."
+            ],
+            "guid": "E<40S+&&k,",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trasiego",
+                "Acción y efecto de trasegar."
+            ],
+            "guid": "ON-G)bXBsM",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trasunto",
+                "Copia escrita de un original. // Imitación exacta, imagen o representación de algo."
+            ],
+            "guid": "u|IJ$Ezn+!",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trazumar",
+                "Dicho de un sólido: dejar pasar a través de sus poros o grietas gotas de algún líquido. // Dicho de un líquido: salir al exterior en gotas a través de los poros de un cuerpo."
+            ],
+            "guid": "f)4.^2l[,y",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tresalbo",
+                "Caballo con tres patas blancas."
+            ],
+            "guid": "bALzV;zJzx",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tribulación",
+                "Persecución o adversidad que padece una persona."
+            ],
+            "guid": "HdSUvQ=Wl1",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unalbo",
+                "Dicho de una caballería: que tiene calzado un pie o una mano."
+            ],
+            "guid": "e&xJ:z}@@9",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Vade retro\"",
+                "Locución latina interjectiva usada para rechazar a alguien o algo."
+            ],
+            "guid": "eU0Gb<E:V",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vapulear",
+                "Zarandear de un lado a otro a alguien o algo. // Golpear o dar repetidamente contra alguien o algo. // Reprender, criticar o hacer reproches duramente a alguien."
+            ],
+            "guid": "dtE6:BCL(a",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Venal",
+                "Relativo a las venas."
+            ],
+            "guid": "H&]3?w9i<)",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Venial",
+                "Que se opone levemente a la ley o a algún precepto, y por lo tanto es de fácil remisión."
+            ],
+            "guid": "PJP7z<!XO2",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Verborragia",
+                "Verbosidad excesiva."
+            ],
+            "guid": "t9I6}lmsEH",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vitualla&nbsp;",
+                "Conjunto de cosas necesarias para la comida, especialmente en los ejércitos."
+            ],
+            "guid": "fi$c[d#oit",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zafio",
+                "Dicho de una persona: tosca en sus modales o falta de tacto en su comportamiento."
+            ],
+            "guid": "FnLs$TICYB",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Decurso",
+                "Sucesión o continuación del tiempo."
+            ],
+            "guid": "DD]iS",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paroxismo",
+                "Exaltación extrema de los afectos y pasiones. // [Med] Exacerbación de una enfermedad. // [Med] Accidente peligroso o casi mortal, en que el paciente pierde el sentido y la acción por largo tiempo."
+            ],
+            "guid": "Ov?d<v]D.S",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pierrot",
+                "Personaje popular del teatro francés que se caracteriza por llevar un traje blanco muy amplio y con grandes botones."
+            ],
+            "guid": "clA<^dOy_S",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Intersticio",
+                "Hendidura o espacio, por lo común pequeño, que media entre dos cuerpos o entre dos partes de un mismo cuerpo // Intervalo ( || espacio o distancia entre dos tiempos o dos lugares)."
+            ],
+            "guid": ";_}5G",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Libelo",
+                "Escrito en que se denigra o infama a alguien o algo."
+            ],
+            "guid": "z.LjeDP(k|",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Entelequia",
+                "Cosa irreal. // En la filosofía de Aristóteles, fin u objetivo de una actividad que la completa y la perfecciona."
+            ],
+            "guid": "NMDwai!:&x",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quincalla",
+                "Conjunto de objetos de metal, generalmente de escaso valor, como tijeras, dedales, imitaciones de joyas, etc."
+            ],
+            "guid": "itDYd#t{$]",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exégeta",
+                "Persona que interpreta o expone un texto."
+            ],
+            "guid": "NiT[eByMGq",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exégesis",
+                "Explicación, interpretación."
+            ],
+            "guid": "A4o#tPl2I`",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anatema",
+                "Excomunión (|| acción de excomulgar) //&nbsp; En el Antiguo Testamento, condena al exterminio de las personas o cosas afectadas por la maldición atribuida a Dios. // Persona o cosa anatematizada."
+            ],
+            "guid": "E9(9~3:9av",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Contrahacer",
+                "Hacer una copia de una cosa, tan parecida a ésta que apenas se distingan una de otra. // Falsificar algo con malos propósitos. // Imitar o remedar algo."
+            ],
+            "guid": "^T9!%lvjN",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Contrahecho",
+                "Que tiene torcido o corcovado el cuerpo."
+            ],
+            "guid": "A:,MW2+~nV",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Corcova",
+                "Corvadura anómala de la columna vertebral, del pecho, o de ambos a la vez. //&nbsp;desus. Corvadura de cualquier cosa, o bulto que altera su forma normal exterior."
+            ],
+            "guid": "Li|;sQ`mEs",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Intrepidez",
+                "Arrojo, valor en los peligros. // Osadía o falta de reflexión."
+            ],
+            "guid": "S_ud",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Osadía",
+                "Atrevimiento, resolución."
+            ],
+            "guid": "r%/(J",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Esqueumorfo",
+                "Objeto derivado de otro que retiene características de diseño que son inherentes al original."
+            ],
+            "guid": "zO%m/|AtXR",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acritud",
+                "Aspereza de las cosas, especialmente al gusto o el olfato. // Aspereza o desabrimiento en el carácter o en el trato. // Estado en que se encuentra un cuerpo metálico que ha perdido su ductilidad y maleabilidad."
+            ],
+            "guid": "BK.(D",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Histrión",
+                "Actor teatral. // Persona que se expresa con afectación o exageración propia de un actor teatral. // Hombre que representaba disfrazado en la comedia o tragedia antigua."
+            ],
+            "guid": "OUwqoaE<Nf",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Compeler",
+                "Obligar a alguien, con fuerza o por autoridad, a que haga lo que no quiere."
+            ],
+            "guid": "IodLHO*Qgt",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Muladar",
+                "Lugar o sitio donde se echa el estiércol o la basura de las casas. // Aquello que ensucia o inficiona material o moralmente."
+            ],
+            "guid": "q[G/U",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inficionar",
+                "Infectar."
+            ],
+            "guid": "R!Fl5",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Furcio",
+                "Equivocación cometida al hablar."
+            ],
+            "guid": "xP,<M",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Timonel",
+                "Persona que gobierna el timón de la nave."
+            ],
+            "guid": "OL$1rtlyIp",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cenotafio",
+                "Monumento funerario en el cual no está el cadáver del personaje a quien se dedica."
+            ],
+            "guid": "l6RAt*;5oM",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escollo",
+                "Peñasco que está a flor de agua o que no se descubre bien. // Dificultad, obstáculo."
+            ],
+            "guid": "L=ofdAG<0*",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caldero",
+                "Caldera pequeña con asa sujeta a dos argollas en la boca."
+            ],
+            "guid": "o6[c5",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Varapalo",
+                "Palo largo a modo de vara. // Golpe dado con un palo o una vara. // Daño o quebranto que alguien recibe en sus intereses materiales o morales."
+            ],
+            "guid": "Dr<f~K:k<4",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        }
+    ]
+}
