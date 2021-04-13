@@ -58,7 +58,7 @@
     "media_files": [
         "ánfora2.jpg"
     ],
-    "mid": 1591302800279,
+    "mid": 1591725223858,
     "name": "Español",
     "note_models": [
         {
@@ -129,6 +129,79 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Anverso",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Reverso",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Básico (y tarjeta invertida)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Reverso}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Tarjeta 1",
+                    "ord": 0,
+                    "qfmt": "{{Anverso}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Anverso}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Tarjeta 2",
+                    "ord": 1,
+                    "qfmt": "{{Reverso}}"
                 }
             ],
             "type": 0,
@@ -790,7 +863,7 @@
             "__type__": "Note",
             "fields": [
                 "Eviterno",
-                "Que, habiendo comenzado en el tiempo, no tendrá fin."
+                "Que, habiendo comenzado en el tiempo, no tendrá fin (sinónimo de sempiterno)."
             ],
             "guid": "Ol1B(-tc.O",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -959,8 +1032,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Fatuo",
-                "Lleno de presunción o vanidad infundada y ridícula."
+                "Fatuo/a",
+                "Lleno/a de presunción o vanidad infundada y ridícula."
             ],
             "guid": "l0[~eCwa_f",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -1739,8 +1812,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Remiso",
-                "Flojo, dejado o detenido en la resolución o determinación de algo. // Dicho de una calidad física: que tiene escasa actividad."
+                "Remiso/a",
+                "Flojo/a, dejado/a o detenido/a en la resolución o determinación de algo. // Dicho de una calidad física: que tiene escasa actividad."
             ],
             "guid": "HU2P>~D-8t",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -1860,7 +1933,7 @@
             "__type__": "Note",
             "fields": [
                 "Trasiego",
-                "Acción y efecto de trasegar."
+                "Acción y efecto de trasegar (Mudar las cosas de un lugar a otro, y en especial un líquido de una vasija a otra)."
             ],
             "guid": "ON-G)bXBsM",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -2254,6 +2327,168 @@
             ],
             "guid": "Dr<f~K:k<4",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ptosis",
+                "<div>El término <b>ptosis</b> (del griego πτωσις, \"caída\") hace referencia al colapso o desprendimiento total o parcial de un órgano. \n</div><div><br></div><div><div>De forma específica, puede referirse a:</div><ul><li><b><a href=\"https://es.wikipedia.org/wiki/Ptosis_mamaria\">Ptosis mamaria</a></b>&nbsp;</li><li><b><a href=\"https://es.wikipedia.org/wiki/Ptosis_palpebral\">Ptosis palpebral</a></b>&nbsp;</li><li><b><a href=\"https://es.wikipedia.org/wiki/Nefroptosis\">Ptosis renal</a></b>&nbsp;<br></li></ul></div>"
+            ],
+            "guid": "D=$5?ki|6m",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": [
+                "Medicina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Abstemio",
+                "(Del&nbsp;lat.&nbsp;<em>abstemius</em>) Que&nbsp;no&nbsp;bebe&nbsp;vino&nbsp;ni&nbsp;otras&nbsp;bebidas&nbsp;alcohólicas."
+            ],
+            "guid": "EUXl&a3X()",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Panegírico",
+                "<div>(Del&nbsp;lat.&nbsp;<em>panegyrĭcus,</em>&nbsp;y del&nbsp;gr.&nbsp;πανηγυρικός&nbsp;<em>panēgyrikós)</em></div><div>En&nbsp;oratoria,&nbsp;discurso&nbsp;o&nbsp;sermón&nbsp;en&nbsp;alabanza&nbsp;de&nbsp;algo&nbsp;o&nbsp;de&nbsp;alguien. / Elogio&nbsp;enfático&nbsp;de&nbsp;algo&nbsp;o&nbsp;de&nbsp;alguien.</div>"
+            ],
+            "guid": "s|JmTh&:;e",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Barítono",
+                "<div>(del&nbsp;gr.&nbsp;βαρύτονος&nbsp;<em>barýtonos</em>&nbsp;'de voz grave')</div><div>&nbsp;Voz&nbsp;media&nbsp;entre&nbsp;la&nbsp;de&nbsp;tenor&nbsp;y&nbsp;la&nbsp;de&nbsp;bajo.</div><div><br></div>"
+            ],
+            "guid": "x3N5OwT@cH",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Estentóreo",
+                "(del&nbsp;gr.&nbsp;Στεντόρειος<em>,</em>&nbsp;der.&nbsp;de Στέντωρ&nbsp;<em>Sténtōr</em>&nbsp;'Estentor', personaje de la&nbsp;<em>Ilíada</em>&nbsp;conocido por su potente voz) Dicho&nbsp;de&nbsp;la&nbsp;voz&nbsp;o&nbsp;del&nbsp;acento:&nbsp;Muy&nbsp;fuerte,&nbsp;ruidoso&nbsp;o&nbsp;retumbante."
+            ],
+            "guid": "3o5=3+C+G",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Soliviar",
+                "<div>Ayudar&nbsp;a&nbsp;levantar&nbsp;algo&nbsp;por&nbsp;debajo.</div><div><b>&nbsp;/&nbsp;</b>Dicho&nbsp;de&nbsp;una&nbsp;persona&nbsp;sentada,&nbsp;echada&nbsp;o&nbsp;cargada&nbsp;sobre&nbsp;algo:&nbsp;Alzarse&nbsp;un&nbsp;poco,&nbsp;sin&nbsp;acabarse&nbsp;de&nbsp;levantar&nbsp;del&nbsp;todo.</div>"
+            ],
+            "guid": "mY99daYmq1",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gañote",
+                "Garguero / Parte superior de la tráquea."
+            ],
+            "guid": "GYJ%cdiR3V",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cogitar",
+                "(del lat. cogitare) Reflexionar o meditar algo.&nbsp;"
+            ],
+            "guid": "Hg>w6jDrB+",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rúbrica",
+                "Rasgo o conjunto de rasgos de forma determinada, que como \nparte de la firma pone cada cual después de su nombre o título, y que a \nveces va sola, esto es, no precedida del nombre o título de la persona \nque rubrica.&nbsp;"
+            ],
+            "guid": "K{v}6VJga9",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escaque",
+                "Cada una de las casillas en que se divide el tablero de ajedrez o damas.&nbsp;"
+            ],
+            "guid": "kn1UXDyCmc",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bicoca",
+                "Cosa que se considera buena y que se consigue por poco dinero o con poco esfuerzo.&nbsp;"
+            ],
+            "guid": "GDG::JL!uJ",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pontigue",
+                "Producto cosmético de belleza, en especial el que tiene una textura cremosa.&nbsp;"
+            ],
+            "guid": "hN=Go9_]hM",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quevedos",
+                "Anteojos de forma circular con montura sin patillas que se sujetan solamente en la nariz por medio de una pinza (por Francisco de Quevedo).&nbsp;"
+            ],
+            "guid": "GJ-(O3@ho*",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vejar",
+                "Maltratar a una persona o hacerla pasar por una situación humillante o vergonzosa.&nbsp;"
+            ],
+            "guid": "l7$(%a79^5",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escotillón",
+                "Puerta o trampa cerradiza en el suelo //&nbsp;<em>Teatro:</em> Abertura en el suelo del escenario por donde pueden salir a escena o desaparecer de ella actores u objetos."
+            ],
+            "guid": "I2rer4Cw({",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Romería",
+                "Viaje o peregrinación, especialmente la que se hace por devoción a un santuario //&nbsp;Gran número de gentes que afluye a un sitio."
+            ],
+            "guid": "m.Y]iwW!jU",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
     ]
