@@ -58,7 +58,7 @@
     "media_files": [
         "ánfora2.jpg"
     ],
-    "mid": 1591725223858,
+    "mid": 1618326823648,
     "name": "Español",
     "note_models": [
         {
@@ -2333,7 +2333,7 @@
             "__type__": "Note",
             "fields": [
                 "Ptosis",
-                "<div>El término <b>ptosis</b> (del griego πτωσις, \"caída\") hace referencia al colapso o desprendimiento total o parcial de un órgano. \n</div><div><br></div><div><div>De forma específica, puede referirse a:</div><ul><li><b><a href=\"https://es.wikipedia.org/wiki/Ptosis_mamaria\">Ptosis mamaria</a></b>&nbsp;</li><li><b><a href=\"https://es.wikipedia.org/wiki/Ptosis_palpebral\">Ptosis palpebral</a></b>&nbsp;</li><li><b><a href=\"https://es.wikipedia.org/wiki/Nefroptosis\">Ptosis renal</a></b>&nbsp;<br></li></ul></div>"
+                "<div>Colapso o desprendimiento total o parcial de un órgano.</div>"
             ],
             "guid": "D=$5?ki|6m",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -2345,7 +2345,7 @@
             "__type__": "Note",
             "fields": [
                 "Abstemio",
-                "(Del&nbsp;lat.&nbsp;<em>abstemius</em>) Que&nbsp;no&nbsp;bebe&nbsp;vino&nbsp;ni&nbsp;otras&nbsp;bebidas&nbsp;alcohólicas."
+                "Que&nbsp;no&nbsp;bebe&nbsp;vino&nbsp;ni&nbsp;otras&nbsp;bebidas&nbsp;alcohólicas."
             ],
             "guid": "EUXl&a3X()",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -2385,7 +2385,7 @@
             "__type__": "Note",
             "fields": [
                 "Soliviar",
-                "<div>Ayudar&nbsp;a&nbsp;levantar&nbsp;algo&nbsp;por&nbsp;debajo.</div><div><b>&nbsp;/&nbsp;</b>Dicho&nbsp;de&nbsp;una&nbsp;persona&nbsp;sentada,&nbsp;echada&nbsp;o&nbsp;cargada&nbsp;sobre&nbsp;algo:&nbsp;Alzarse&nbsp;un&nbsp;poco,&nbsp;sin&nbsp;acabarse&nbsp;de&nbsp;levantar&nbsp;del&nbsp;todo.</div>"
+                "<div>Ayudar&nbsp;a&nbsp;levantar&nbsp;algo&nbsp;por&nbsp;debajo&nbsp;<b>//&nbsp;</b>Dicho&nbsp;de&nbsp;una&nbsp;persona&nbsp;sentada,&nbsp;echada&nbsp;o&nbsp;cargada&nbsp;sobre&nbsp;algo:&nbsp;Alzarse&nbsp;un&nbsp;poco,&nbsp;sin&nbsp;acabarse&nbsp;de&nbsp;levantar&nbsp;del&nbsp;todo.</div>"
             ],
             "guid": "mY99daYmq1",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -2488,6 +2488,426 @@
                 "Viaje o peregrinación, especialmente la que se hace por devoción a un santuario //&nbsp;Gran número de gentes que afluye a un sitio."
             ],
             "guid": "m.Y]iwW!jU",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Melifluo",
+                "Que tiene miel o es parecido a ella en sus propiedades. // Dulce, suave, delicado y tierno en el trato o en la manera de hablar (usado más en sentido peyorativo)."
+            ],
+            "guid": "B#8tKAHTQk",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tonto",
+                "Que puede comer tranquilo."
+            ],
+            "guid": "g~Yl&PTQ}u",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Peyorativo",
+                "Dicho de una palabra o de un modo de expresión: Que indica una idea desfavorable.&nbsp;"
+            ],
+            "guid": "v0@qRj-,P|",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Yeti",
+                "Supuesto gigante antropomorfo, del cual se dice que vive en el Himalaya."
+            ],
+            "guid": "wXfhUFN`u]",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Prominencia",
+                "Elevación de algo sobre lo que está alrededor o cerca de ello."
+            ],
+            "guid": "h+Kj#3A^bI",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mancomunar",
+                "Unir personas, fuerzas o caudales para un fin (U. t. c. pronominal, i.e. ______se.) // Obligar a dos o más personas a pagar o ejecutar de ______ algo, entre todas y por partes. // Unirse, asociarse, obligarse de ______.&nbsp;"
+            ],
+            "guid": "s<qW3C6~-G",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Amanuense",
+                "Persona que tiene por oficio escribir a mano, copiando o poniendo en limpio escritos ajenos, o escribiendo lo que se le dicta. // Escribiente de un despacho, oficina o tribunal."
+            ],
+            "guid": "P#lI,1)H(w",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Orbicular",
+                "Redondo o circular."
+            ],
+            "guid": "OiGCK7-?YZ",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proferir",
+                "Pronunciar, decir, articular palabras o sonidos."
+            ],
+            "guid": "pXQBMLE<TO",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Denostar",
+                "Injuriar gravemente, infamar de palabra."
+            ],
+            "guid": "MN*dbqN)i)",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Clepsidra",
+                "Reloj de agua."
+            ],
+            "guid": "dw]xl$>hY9",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jornal",
+                "Estipendio que gana el trabajador por cada día de trabajo. // Trabajo que se hace en un día. // Medida de tierra, de extensión varia, usada en diferentes provincias de España."
+            ],
+            "guid": "wc/<p%?r3$",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inextricable",
+                "Que no se puede desenredar, muy intrincado y confuso."
+            ],
+            "guid": "s=ti;|qG.L",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Conturbar",
+                "Alterar o inquietar a alguien o causar intranquilidad en su ánimo."
+            ],
+            "guid": "wZf55Rof]g",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Propender",
+                "Inclinarse o tender a algo."
+            ],
+            "guid": "HlYS{!]xg4",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cetrino",
+                "Dicho de un color: amarillo verdoso // Compuesto con cidra o que participa de sus cualidades // Melancólico y adusto."
+            ],
+            "guid": "PI8,)tQyx9",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pirático",
+                "Perteneciente o relativo al pirata o a la piratería."
+            ],
+            "guid": "g>`a.{NP!g",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rotoso",
+                "Desharrapado, andrajoso"
+            ],
+            "guid": "dsY1d{b{3*",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Execrar",
+                "Condenar y maldecir con autoridad sacerdotal o en nombre de cosas sagradas // Vituperar o reprobar severamente."
+            ],
+            "guid": "vm,Dh5n-oJ",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vituperar",
+                "Criticar o censurar con dureza algo o a alguien."
+            ],
+            "guid": "_Ck7_(<J/",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Execración",
+                "Pérdida del carácter sagrado de un lugar, sea por profanación, sea por accidente // Acción y efecto de execrar // Conjunto de palabras o fórmula con que se execra."
+            ],
+            "guid": "Kzt/#op#{L",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Morigerar",
+                "Templar o moderar los excesos de los afectos y acciones."
+            ],
+            "guid": "n%iVMt0Kf[",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sanguíneo",
+                "Dicho de una persona: de temperamento impulsivo // Perteneciente o relativo a la sangre."
+            ],
+            "guid": "C$9v[2EW,m",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dispepsia",
+                "Enfermedad crónica caracterizada por la digestión laboriosa e imperfecta."
+            ],
+            "guid": "KqMj8xfP+B",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ermita",
+                "Capilla o santuario, generalmente pequeños, situados por lo común en despoblado y que no suelen tener culto permanente."
+            ],
+            "guid": "w%R}AM-nQK",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pugilístico",
+                "Perteneciente o relativo al boxeo."
+            ],
+            "guid": "tF1W}Mn`J{",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ecuanimidad",
+                "Igualdad y constancia de ánimo // Imparcialidad de juicio."
+            ],
+            "guid": "QX7qwW5c>L",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sinrazón",
+                "Acción hecha contra justicia y fuera de lo razonable o debido."
+            ],
+            "guid": "g!;=Om$>#N",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Perverso",
+                "Sumamente malo, que causa daño intencionadamente // Que corrompe las costumbres o el orden y estado habitual de las cosas."
+            ],
+            "guid": "vdv+6dEzi5",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Afrenta",
+                "Vergüenza y deshonor que resulta de algún dicho o hecho, como la que se sigue de la imposición de penas por ciertos delitos."
+            ],
+            "guid": "boW&ro:`<>",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ignominia",
+                "Afrenta pública."
+            ],
+            "guid": "l:,V+6iho-",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Andrajo",
+                "Prenda de vestir vieja, rota o sucia (úsese también en plural con el mismo significado) // Pedazo o jirón de tela roto, viejo o sucio."
+            ],
+            "guid": "A8}~%AEq4b",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aberración",
+                "Grave error del entendimiento // Acto o conducta depravados, perversos, o que se apartan de lo aceptado como lícito."
+            ],
+            "guid": "c>(_79z)$&",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Despojo",
+                "Presa o botín del vencedor // Sobras o residuos // Aquello que se ha perdido por el tiempo, por la muerte u otros accidentes. <i>La vida es despojo de la muerte. La hermosura es despojo del tiempo.</i>"
+            ],
+            "guid": "eYEYsU~u`}",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bravata",
+                "Amenaza proferida con arrogancia para intimidar a alguien."
+            ],
+            "guid": "tR[q~~f-KB",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gravoso",
+                "Molesto, pesado y a veces intolerable // Que ocasiona gasto o menoscabo."
+            ],
+            "guid": "P^B1TwU$|s",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Menoscabar",
+                "Disminuir algo, quitándole una parte, acortarlo, reducirlo // Deteriorar y deslustrar algo, quitándole parte de la estimación o lucimiento que antes tenía // Causar mengua o descrédito en la honra o en la fama."
+            ],
+            "guid": "r]O.gW6]Wa",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Reconvenir",
+                "Censurar, reprender a alguien por lo que ha hecho o dicho."
+            ],
+            "guid": "Ft+7=uDe,a",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Meritorio",
+                "Digno de premio o galardón // Persona que trabaja sin sueldo por aprender y hacer méritos para ocupar una plaza remunerada."
+            ],
+            "guid": "BeX5l|58aN",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Egregio",
+                "Insigne, ilustre."
+            ],
+            "guid": "f,!zB~bg8|",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Usucapión",
+                "Der. Adquisición de una propiedad o de un derecho real mediante su ejercicio en las condiciones y durante el tiempo previsto por la ley."
+            ],
+            "guid": "$Vd8D",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Usurpación",
+                "Der. Delito que se comete apoderándose con violencia o intimidación de inmueble o derecho real ajeno."
+            ],
+            "guid": "!:^Q2",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
