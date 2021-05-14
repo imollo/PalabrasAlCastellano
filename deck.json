@@ -34,7 +34,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 8
+                "perDay": 4
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -2825,7 +2825,7 @@
             "__type__": "Note",
             "fields": [
                 "Despojo",
-                "Presa o botín del vencedor // Sobras o residuos // Aquello que se ha perdido por el tiempo, por la muerte u otros accidentes. <i>La vida es despojo de la muerte. La hermosura es despojo del tiempo.</i>"
+                "Presa o botín del vencedor // Sobras o residuos // Aquello que se ha perdido por el tiempo, por la muerte u otros accidentes. <i>La vida es _______ de la muerte. La hermosura es _______ del tiempo.</i>"
             ],
             "guid": "eYEYsU~u`}",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -2908,6 +2908,86 @@
                 "Der. Delito que se comete apoderándose con violencia o intimidación de inmueble o derecho real ajeno."
             ],
             "guid": "!:^Q2",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sinécdoque",
+                "Designación de una cosa con el nombre de otra, de manera similar a la metonimia, aplicando a un todo el nombre de una de sus partes, o viceversa: a un género el de una especie, o al contrario, a una cosa el de la materia de que está formada, etc., como en <i>cien cabezas</i> por <i>cien reses</i>, en <i>los mortales</i> por <i>los seres humanos</i>, en <i>el acero</i> por <i>la espada</i>, etc."
+            ],
+            "guid": "e_Q_tJu<|J",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metonimia",
+                "Tropo que consiste en designar algo con el nombre de otra cosa tomando el efecto por la causa o viceversa, el autor por sus obras, el signo por la cosa significada, etc.; p. ej., <i>las canas</i> por <i>la vejez</i>; <i>leer a Virgilio</i>, por <i>leer las obras de Virgilio; el laurel</i> por <i>la gloria</i>, etc."
+            ],
+            "guid": "HBNzDm[IKE",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tropo",
+                "Empleo de una palabra en sentido distinto del que propiamente le corresponde, pero que tiene con éste alguna conexión, correspondencia o semejanza. <i>La metáfora, la metonimia y la sinécdoque son tipos de ______.</i>"
+            ],
+            "guid": "u=Z6&!R{p2",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metáfora",
+                "Traslación del sentido recto de una voz a otro figurado, en virtud de una comparación tácita, como en <i>las perlas del rocío</i>, <i>la primavera de la vida</i> o <i>refrenar las pasiones.</i>"
+            ],
+            "guid": "l_WDqsd=-:",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ad hoc",
+                "Expresión usada para referirse a lo que se dice o hace sólo para un fin determinado // Adecuado, apropiado, dispuesto especialmente para un fin."
+            ],
+            "guid": "Ih>G($*K-Q",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Midriasis",
+                "Med: dilatación de la pupila del ojo."
+            ],
+            "guid": "x&auTxUR.T",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Risueño/a",
+                "Que muestra risa en el semblante. // Que se ríe con facilidad. // De aspecto deleitable, o capaz, por alguna circunstancia, de infundir gozo o alegría."
+            ],
+            "guid": "jB>_`#R<gd",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Péplum",
+                "Película ambientada en la Antigüedad clásica."
+            ],
+            "guid": "O[Kg80iM{2",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
