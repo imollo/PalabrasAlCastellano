@@ -22,7 +22,7 @@
             "maxTaken": 60,
             "name": "Español",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
                     1.0,
                     10.0
@@ -2988,6 +2988,106 @@
                 "Película ambientada en la Antigüedad clásica."
             ],
             "guid": "O[Kg80iM{2",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Alefato",
+                "Serie ordenada de las letras hebreas."
+            ],
+            "guid": "G!SL:PkJLg",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apotegma",
+                "Dicho breve, sentencioso y feliz, especialmente el que tiene celebridad por haberlo proferido o escrito alguna personalidad."
+            ],
+            "guid": "KvgB@[d*3~",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hirsuto",
+                "Dicho del pelo: Disperso y duro. // Cubierto de pelo _______ o de púas o espinas. // De carácter áspero."
+            ],
+            "guid": "xpec*Ct*_5",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adosar",
+                "Poner una cosa, por su espalda o por los lados, contigua a otra o apoyada en ella. // <i>(Heráldico)</i> Colocar espalda contra espalda."
+            ],
+            "guid": "tJDnuFp6gF",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Blasonar",
+                "(tr.) Disponer el escudo de armas de una ciudad o familia según la regla del arte. // (intr.) Hacer ostentación de alguna cosa con alabanza propia.&nbsp;"
+            ],
+            "guid": "p_>^07=xl:",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Heraldo",
+                "Mensajero. // Aquello que anuncia algo que va a suceder: <i>El _______ de la muerte, de la paz. </i>// Rey de armas (especialista en heráldica cuyo oficio consiste en conocer y ordenar los blasones y las genealogías de las familias nobles)&nbsp;"
+            ],
+            "guid": "lop{j%`2!J",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Blasón",
+                "Arte de explicar y describir los escudos de armas de cada linaje, ciudad o persona. // Cada figura, señal o pieza de las que se ponen en un escudo."
+            ],
+            "guid": "K]%SK$6Tif",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Heráldico",
+                "Perteneciente o relativo a los blasones o el arte del blasón."
+            ],
+            "guid": "nSV+b2XM}H",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sentencioso",
+                "Dicho de un texto o del modo de expresión: Que encierra sentencias morales o doctrinales, o presenta características propias de éstas. // Dicho de una persona: que habla con cierta afectada gravedad, como si cuanto dice fuera una sentencia."
+            ],
+            "guid": "I|4m*aajl$",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sentencia",
+                "Dictamen o parecer que alguien tiene o sigue. // Dicho grave y sucinto que encierra doctrina o moralidad. // Declaración del juicio y resolución del juez."
+            ],
+            "guid": "d2aQnxtb&C",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
