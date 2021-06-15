@@ -22,7 +22,7 @@
             "maxTaken": 60,
             "name": "Español",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
                     1.0,
                     10.0
@@ -34,7 +34,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 8
+                "perDay": 2
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -56,9 +56,12 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "adefesio.jpg",
+        "charol-a4436e17d5bd0bec4bd2178a86823362ffd1d75a.jpg",
+        "pierrot-aislado-fondo-transparente_1441-3290.jpg",
         "ánfora2.jpg"
     ],
-    "mid": 1591725223858,
+    "mid": 1617996225328,
     "name": "Español",
     "note_models": [
         {
@@ -206,6 +209,84 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "name": "Word",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "name": "Definition",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "name": "Example",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "VocabularyCard",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Definition}}\n\n<hr id=answer>\n\n{{Example}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Tarjeta 1",
+                    "ord": 0,
+                    "qfmt": "{{Word}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Word}}\n\n<hr id=answer>\n\n{{Example}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Tarjeta 2",
+                    "ord": 1,
+                    "qfmt": "{{Definition}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
@@ -253,7 +334,7 @@
             "__type__": "Note",
             "fields": [
                 "Adefesio",
-                "Persona o cosa ridícula, extravagante o muy fea."
+                "Persona o cosa ridícula, extravagante o muy fea.&nbsp;<img src=\"adefesio.jpg\">"
             ],
             "guid": "uAI!>fcMV^",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -463,7 +544,7 @@
             "__type__": "Note",
             "fields": [
                 "Calavera",
-                "Hombre disipado y juerguista."
+                "Persona disipada, juerguista e irresponsable."
             ],
             "guid": "tk|7_3kEr&",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -613,7 +694,7 @@
             "__type__": "Note",
             "fields": [
                 "Craquear",
-                "[del inglés <i>to crack</i>] Romper, mediante el aumento de la temperatura y a veces con ayuda de catalizadores, las moléculas de ciertos hidrocarburos con el objeto de aumentar la proporción de los más útiles."
+                "[del inglés] Romper, mediante el aumento de la temperatura y a veces con ayuda de catalizadores, las moléculas de ciertos hidrocarburos con el objeto de aumentar la proporción de los más útiles."
             ],
             "guid": "wdV~qc~Vo^",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -763,7 +844,7 @@
             "__type__": "Note",
             "fields": [
                 "Ecdótica",
-                "Disciplina que estudia los medios y los fines de la edición de textos."
+                "Disciplina que estudia la edición de textos."
             ],
             "guid": "K)j342x_,q",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -1017,7 +1098,9 @@
             ],
             "guid": "SGU{E",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -1503,7 +1586,7 @@
             "__type__": "Note",
             "fields": [
                 "Metamorfismo",
-                "[Geología] Transformación natural ocurrida en un mineral o una roca luego de su consolidación primitiva."
+                "[Geología] Transformación natural de un mineral o una roca luego de su consolidación primitiva."
             ],
             "guid": "Kg[Z`?$-=J",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -1563,7 +1646,7 @@
             "__type__": "Note",
             "fields": [
                 "Oxímoron",
-                "Combinación, en una misma estructura sintáctica, de dos palabras o expresiones de significado opuesto que originan un nuevo sentido, e.g. \"un silencio atronador.\""
+                "Combinación, en una misma estructura sintáctica, de dos palabras o expresiones de significado opuesto que originan un nuevo sentido, ej. \"un silencio atronador.\""
             ],
             "guid": "G,-|m!-%75",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -1763,7 +1846,7 @@
             "__type__": "Note",
             "fields": [
                 "Reconcomer",
-                "Desasosegarse por una molestia moral. // Dicho de un problema, una preocupación, etc: desazonar, incomodar a alguien. // Restregarse a causa de un picor o comezón."
+                "Inquietar el ánimo o la conciencia// Desasosegarse por una molestia moral. // Dicho de un problema, una preocupación, etc: desazonar, incomodar a alguien. // Restregarse a causa de un picor o comezón."
             ],
             "guid": "bZ/~Cy{?/F",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -1803,7 +1886,7 @@
             "__type__": "Note",
             "fields": [
                 "Rezumar",
-                "Dicho de un sólido o de un líquido: trazumar. // Dicho de una cosa: traslucirse y susurrarse. // Como verbo transitivo: manifestar o dejar traslucir una cualidad o sentimiento."
+                "manifestar o dejar traslucir una cualidad o sentimiento."
             ],
             "guid": "pr,-=6K#.i",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -2023,7 +2106,7 @@
             "__type__": "Note",
             "fields": [
                 "Venial",
-                "Que se opone levemente a la ley o a algún precepto, y por lo tanto es de fácil remisión."
+                "[pecado, acción] Que se opone levemente a la ley o a algún precepto, y por lo tanto es fácil de perdonar."
             ],
             "guid": "PJP7z<!XO2",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -2043,7 +2126,7 @@
             "__type__": "Note",
             "fields": [
                 "Vitualla&nbsp;",
-                "Conjunto de cosas necesarias para la comida, especialmente en los ejércitos."
+                "Conjunto de cosas y provisiones necesarias para la comida, especialmente en los ejércitos."
             ],
             "guid": "fi$c[d#oit",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -2083,7 +2166,7 @@
             "__type__": "Note",
             "fields": [
                 "Pierrot",
-                "Personaje popular del teatro francés que se caracteriza por llevar un traje blanco muy amplio y con grandes botones."
+                "Personaje popular del teatro francés que se caracteriza por llevar un traje blanco muy amplio y con grandes botones.&nbsp;<img src=\"pierrot-aislado-fondo-transparente_1441-3290.jpg\">"
             ],
             "guid": "clA<^dOy_S",
             "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
@@ -2355,7 +2438,7 @@
             "__type__": "Note",
             "fields": [
                 "Panegírico",
-                "<div>(Del&nbsp;lat.&nbsp;<em>panegyrĭcus,</em>&nbsp;y del&nbsp;gr.&nbsp;πανηγυρικός&nbsp;<em>panēgyrikós)</em></div><div>En&nbsp;oratoria,&nbsp;discurso&nbsp;o&nbsp;sermón&nbsp;en&nbsp;alabanza&nbsp;de&nbsp;algo&nbsp;o&nbsp;de&nbsp;alguien. / Elogio&nbsp;enfático&nbsp;de&nbsp;algo&nbsp;o&nbsp;de&nbsp;alguien.</div>"
+                "<div>En&nbsp;oratoria,&nbsp;discurso&nbsp;o&nbsp;sermón&nbsp;en&nbsp;alabanza&nbsp;de&nbsp;algo&nbsp;o&nbsp;de&nbsp;alguien. / Elogio&nbsp;enfático&nbsp;de&nbsp;algo&nbsp;o&nbsp;de&nbsp;alguien.<br></div>"
             ],
             "guid": "s|JmTh&:;e",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -2488,6 +2571,229 @@
                 "Viaje o peregrinación, especialmente la que se hace por devoción a un santuario //&nbsp;Gran número de gentes que afluye a un sitio."
             ],
             "guid": "m.Y]iwW!jU",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ustear",
+                "Tratar de usted."
+            ],
+            "guid": "PU~DFA&!t{",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Seísmo",
+                "Terremoto"
+            ],
+            "guid": "AvJ@LU`cpO",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Funambulista / Funámbulo",
+                "acróbata que realiza ejercicios"
+            ],
+            "guid": "|*!]3*W6L",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Diagnosis",
+                "Acción y efecto de diagnosticar."
+            ],
+            "guid": "nHjp@4AHeT",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exordio",
+                "Principio, inducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes.&nbsp;"
+            ],
+            "guid": "mDPX2=++yI",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "devanear",
+                "Decir o hacer desconciertos o desvaneos.&nbsp;"
+            ],
+            "guid": "F#(a0OGEY/",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Badejo",
+                "Pieza metálica, generalmente en forma de pera, que pende en el interior de las campanas, y con lo cual se las golpea para hacerlas sonar.&nbsp;"
+            ],
+            "guid": "eCWhCwk}h+",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "negligir",
+                "Descuidar, pasar por alto, abandonar.&nbsp;"
+            ],
+            "guid": "HJv*0&)E=b",
+            "note_model_uuid": "1fc9cfa2-97f1-11eb-8820-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Propiciar",
+                "<div>Favorecer que algo acontezca o se realice. // Ablandar, aplacar la ira de alguien, haciéndolo favorable, benigno y propicio.</div>"
+            ],
+            "guid": "yWy/$]:t;+",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Olería",
+                "Lugar donde se fabrican ladrillos y tejas."
+            ],
+            "guid": "D0G]@y,ghY",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Charol",
+                "Barniz muy lustroso que se adhiere perfectamente a la superficie del cuerpo al que se aplica.&nbsp;<img src=\"charol-a4436e17d5bd0bec4bd2178a86823362ffd1d75a.jpg\">"
+            ],
+            "guid": "A:|ZK3m6II",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Curtiembre",
+                "Sitio o taller donde se curten y trabajan las pieles."
+            ],
+            "guid": "vYSr_?`(yg",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Polizón, Polizona",
+                "Persona que se embarca clandestinamente. //&nbsp;Persona ociosa y sin destino, que anda de corrillo en corrillo."
+            ],
+            "guid": "fml7NoygM$",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Polizonte",
+                " m. y f. despect. Agente de policía"
+            ],
+            "guid": "={`bD",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deferencia ",
+                "Adhesión al dictamen ajeno, por respeto o por excesiva moderación. / conducta condescendiente"
+            ],
+            "guid": "SE9@R",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "osezno/a",
+                "cachorro/a de oso. "
+            ],
+            "guid": "0Hdq1",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "atanor",
+                "cañería para conducir el agua "
+            ],
+            "guid": "N**+F",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Esqueje",
+                "Tallo, rama o retoño de una planta que se injerta en otra o se introduce en la tierra para reproducir o multiplicar la planta."
+            ],
+            "guid": "y}feo2&19B",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "atanor",
+                "Cañería para conducir el agua",
+                ""
+            ],
+            "guid": "m#<1Hd..4$",
+            "note_model_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "osezno, na",
+                "cachorro/a del oso",
+                ""
+            ],
+            "guid": "C0quWMb>|[",
+            "note_model_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jergón",
+                "Colchón de paja, esparto o hierba.",
+                ""
+            ],
+            "guid": "ll^YhPFOj?",
+            "note_model_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "obcecar",
+                "Cegar, deslumbrar u ofuscar.&nbsp;"
+            ],
+            "guid": "tZ)PDr2.!`",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
