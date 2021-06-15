@@ -2577,30 +2577,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "Ustear",
-                "Tratar de usted."
-            ],
-            "guid": "PU~DFA&!t{",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },      
-        {
-            "__type__": "Note",
-            "fields": [
                 "Melifluo",
                 "Que tiene miel o es parecido a ella en sus propiedades. // Dulce, suave, delicado y tierno en el trato o en la manera de hablar (usado más en sentido peyorativo)."
             ],
             "guid": "B#8tKAHTQk",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Seísmo",
-                "Terremoto"
-            ],
-            "guid": "AvJ@LU`cpO",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -2617,30 +2597,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "Funambulista / Funámbulo",
-                "acróbata que realiza ejercicios"
-            ],
-            "guid": "|*!]3*W6L",          
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Peyorativo",
                 "Dicho de una palabra o de un modo de expresión: Que indica una idea desfavorable.&nbsp;"
             ],
             "guid": "v0@qRj-,P|",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Diagnosis",
-                "Acción y efecto de diagnosticar."
-            ],
-            "guid": "nHjp@4AHeT",          
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -2657,16 +2617,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "exordio",
-                "Principio, inducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes.&nbsp;"
-            ],
-            "guid": "mDPX2=++yI",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Prominencia",
                 "Elevación de algo sobre lo que está alrededor o cerca de ello."
             ],
@@ -2675,16 +2625,6 @@
             "tags": []
         },
         {
-            "__type__": "Note",
-            "fields": [
-                "devanear",
-                "Decir o hacer desconciertos o desvaneos.&nbsp;"
-            ],
-            "guid": "F#(a0OGEY/",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-          {
             "__type__": "Note",
             "fields": [
                 "Mancomunar",
@@ -2697,30 +2637,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "Badejo",
-                "Pieza metálica, generalmente en forma de pera, que pende en el interior de las campanas, y con lo cual se las golpea para hacerlas sonar.&nbsp;"
-            ],
-            "guid": "eCWhCwk}h+",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Amanuense",
                 "Persona que tiene por oficio escribir a mano, copiando o poniendo en limpio escritos ajenos, o escribiendo lo que se le dicta. // Escribiente de un despacho, oficina o tribunal."
             ],
             "guid": "P#lI,1)H(w",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "negligir",
-                "Descuidar, pasar por alto, abandonar.&nbsp;"
-            ],
-            "guid": "HJv*0&)E=b",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -3127,16 +3047,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Propiciar",
-                "<div>Favorecer que algo acontezca o se realice. // Ablandar, aplacar la ira de alguien, haciéndolo favorable, benigno y propicio.</div>"
-            ],
-            "guid": "yWy/$]:t;+",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Midriasis",
                 "Med: dilatación de la pupila del ojo."
             ],
@@ -3161,16 +3071,6 @@
                 "Película ambientada en la Antigüedad clásica."
             ],
             "guid": "O[Kg80iM{2",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Olería",
-                "Lugar donde se fabrican ladrillos y tejas."
-            ],
-            "guid": "D0G]@y,ghY",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -3247,30 +3147,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "Charol",
-                "Barniz muy lustroso que se adhiere perfectamente a la superficie del cuerpo al que se aplica.&nbsp;<img src=\"charol-a4436e17d5bd0bec4bd2178a86823362ffd1d75a.jpg\">"
-            ],
-            "guid": "A:|ZK3m6II",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Heráldico",
                 "Perteneciente o relativo a los blasones o el arte del blasón."
             ],
             "guid": "nSV+b2XM}H",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Curtiembre",
-                "Sitio o taller donde se curten y trabajan las pieles."
-            ],
-            "guid": "vYSr_?`(yg",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -3287,30 +3167,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "Polizón, Polizona",
-                "Persona que se embarca clandestinamente. //&nbsp;Persona ociosa y sin destino, que anda de corrillo en corrillo."
-            ],
-            "guid": "fml7NoygM$",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },          
-        {
-            "__type__": "Note",
-            "fields": [
                 "Sentencia",
                 "Dictamen o parecer que alguien tiene o sigue. // Dicho grave y sucinto que encierra doctrina o moralidad. // Declaración del juicio y resolución del juez."
             ],
             "guid": "d2aQnxtb&C",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Polizonte",
-                " m. y f. despect. Agente de policía"
-            ],
-            "guid": "={`bD",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -3327,30 +3187,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "Deferencia ",
-                "Adhesión al dictamen ajeno, por respeto o por excesiva moderación. / conducta condescendiente"
-            ],
-            "guid": "SE9@R",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Gomera / Honda / Hondera / Tirachinas",
                 "Horquilla con mango a cuyos extremos se unen los de una goma para estirarla y disparar así piedrecillas, perdigones, etc."
             ],
             "guid": "d4sknN6jZE",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Osezno/a",
-                "Cachorro/a de oso. "
-            ],
-            "guid": "0Hdq1",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -3367,30 +3207,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "Atanor",
-                "Cañería para conducir el agua "
-            ],
-            "guid": "N**+F",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Jibarizar",
                 "Reducir el tamaño, la cuantía o la importancia de algo.<br><br>(de <i>jíbaro</i>, por alusión a la práctica de este pueblo de reducir de tamaño las cabezas humanas que cortaban)"
             ],
             "guid": "f(diiu$`_S",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Esqueje",
-                "Tallo, rama o retoño de una planta que se injerta en otra o se introduce en la tierra para reproducir o multiplicar la planta."
-            ],
-            "guid": "y}feo2&19B",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
@@ -3447,33 +3267,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "osezno, na",
-                "cachorro/a del oso",
-                ""
-            ],
-            "guid": "C0quWMb>|[",
-            "note_model_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Aforo",
                 "Número máximo autorizado de personas que puede admitir un recinto destinado a espectáculos u otros actos públicos.&nbsp;"
             ],
             "guid": "f5f>ggM9+n",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "jergón",
-                "Colchón de paja, esparto o hierba.",
-                ""
-            ],
-            "guid": "ll^YhPFOj?",
-            "note_model_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",          
             "tags": []
         },
         {
@@ -3519,20 +3317,222 @@
         {
             "__type__": "Note",
             "fields": [
-                "Obcecar",
-                "Cegar, deslumbrar u ofuscar.&nbsp;"
+                "Meme",
+                "Rasgo cultural o de conducta que se transmite por imitación de persona a persona o de generación en generación. // Imagen, video o texto, por lo general distorsionado con fines caricaturescos, que se difunde principalmente a través de internet."
             ],
-            "guid": "tZ)PDr2.!`",
-	    "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887", 
+            "guid": "E,%*?T#|{C",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "Meme",
-                "Rasgo cultural o de conducta que se transmite por imitación de persona a persona o de generación en generación. // Imagen, video o texto, por lo general distorsionado con fines caricaturescos, que se difunde principalmente a través de internet."
+                "Ustear",
+                "Tratar de usted."
             ],
-            "guid": "E,%*?T#|{C",
+            "guid": "PU~DFA&!t{",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Seísmo",
+                "Terremoto"
+            ],
+            "guid": "AvJ@LU`cpO",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Funambulista / Funámbulo",
+                "acróbata que realiza ejercicios"
+            ],
+            "guid": "|*!]3*W6L",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Diagnosis",
+                "Acción y efecto de diagnosticar."
+            ],
+            "guid": "nHjp@4AHeT",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exordio",
+                "Principio, inducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes.&nbsp;"
+            ],
+            "guid": "mDPX2=++yI",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "devanear",
+                "Decir o hacer desconciertos o desvaneos.&nbsp;"
+            ],
+            "guid": "F#(a0OGEY/",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Badejo",
+                "Pieza metálica, generalmente en forma de pera, que pende en el interior de las campanas, y con lo cual se las golpea para hacerlas sonar.&nbsp;"
+            ],
+            "guid": "eCWhCwk}h+",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "negligir",
+                "Descuidar, pasar por alto, abandonar.&nbsp;"
+            ],
+            "guid": "HJv*0&)E=b",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Propiciar",
+                "<div>Favorecer que algo acontezca o se realice. // Ablandar, aplacar la ira de alguien, haciéndolo favorable, benigno y propicio.</div>"
+            ],
+            "guid": "yWy/$]:t;+",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Olería",
+                "Lugar donde se fabrican ladrillos y tejas."
+            ],
+            "guid": "D0G]@y,ghY",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Charol",
+                "Barniz muy lustroso que se adhiere perfectamente a la superficie del cuerpo al que se aplica.&nbsp;<img src=\"charol-a4436e17d5bd0bec4bd2178a86823362ffd1d75a.jpg\">"
+            ],
+            "guid": "A:|ZK3m6II",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Curtiembre",
+                "Sitio o taller donde se curten y trabajan las pieles."
+            ],
+            "guid": "vYSr_?`(yg",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Polizón, Polizona",
+                "Persona que se embarca clandestinamente. //&nbsp;Persona ociosa y sin destino, que anda de corrillo en corrillo."
+            ],
+            "guid": "fml7NoygM$",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Polizonte",
+                " m. y f. despect. Agente de policía"
+            ],
+            "guid": "={`bD",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deferencia ",
+                "Adhesión al dictamen ajeno, por respeto o por excesiva moderación. / conducta condescendiente"
+            ],
+            "guid": "SE9@R",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Osezno/a",
+                "Cachorro/a de oso. "
+            ],
+            "guid": "0Hdq1",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Atanor",
+                "Cañería para conducir el agua "
+            ],
+            "guid": "N**+F",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Esqueje",
+                "Tallo, rama o retoño de una planta que se injerta en otra o se introduce en la tierra para reproducir o multiplicar la planta."
+            ],
+            "guid": "y}feo2&19B",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Osezno, na",
+                "Cachorro/a del oso.",
+                ""
+            ],
+            "guid": "C0quWMb>|[",
+            "note_model_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jergón",
+                "Colchón de paja, esparto o hierba.",
+                ""
+            ],
+            "guid": "ll^YhPFOj?",
+            "note_model_uuid": "7e5776e0-ce05-11eb-9ee0-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Obcecar",
+                "Cegar, deslumbrar u ofuscar.&nbsp;"
+            ],
+            "guid": "tZ)PDr2.!`",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
