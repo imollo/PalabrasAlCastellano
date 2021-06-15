@@ -3519,10 +3519,11 @@
         {
             "__type__": "Note",
             "fields": [
-                "obcecar",
+                "Obcecar",
                 "Cegar, deslumbrar u ofuscar.&nbsp;"
             ],
-            "guid": "tZ)PDr2.!`", 
+            "guid": "tZ)PDr2.!`",
+	    "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887", 
             "tags": []
         },
         {
