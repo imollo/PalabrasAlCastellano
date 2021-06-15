@@ -3220,6 +3220,26 @@
             "guid": "O$Kk@vzz)T",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Crisol",
+                "Recipiente hecho de material refractario, que se emplea para fundir alguna materia a temperatura muy elevada. // (Ingeniería) Cavidad que en la parte inferior de los hornos sirbe para recibir el metal fundido."
+            ],
+            "guid": "xrf)}ub#J:",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Meme",
+                "Rasgo cultural o de conducta que se transmite por imitación de persona a persona o de generación en generación. // Imagen, video o texto, por lo general distorsionado con fines caricaturescos, que se difunde principalmente a través de internet."
+            ],
+            "guid": "E,%*?T#|{C",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
         }
     ]
 }
