@@ -36,8 +36,10 @@
                 "order": 0,
                 "perDay": 4
             },
+            "newGatherPriority": 0,
             "newMix": 0,
             "newPerDayMinimum": 0,
+            "newSortOrder": 0,
             "replayq": true,
             "rev": {
                 "bury": false,
@@ -61,7 +63,7 @@
         "pierrot-aislado-fondo-transparente_1441-3290.jpg",
         "ánfora2.jpg"
     ],
-    "mid": 1594934365827,
+    "mid": 1591302800276,
     "name": "Español",
     "note_models": [
         {
@@ -135,6 +137,52 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7e6a8e0c-f853-11eb-ba01-541379669c27",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -723,7 +771,7 @@
             "__type__": "Note",
             "fields": [
                 "Ermar",
-                "(De `yermo`) Destruir, desolar, dejar yerma una ciudad, tierra, etcétera."
+                "Destruir, desolar, dejar yerma una ciudad, tierra, etcétera."
             ],
             "guid": "fw}p~WRfbW",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -947,9 +995,7 @@
             ],
             "guid": "SGU{E",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": [
-                "leech"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -1695,7 +1741,7 @@
             "__type__": "Note",
             "fields": [
                 "Reconcomer",
-                "Inquietar el ánimo o la conciencia// Desasosegarse por una molestia moral. // Dicho de un problema, una preocupación, etc: desazonar, incomodar a alguien. // Restregarse a causa de un picor o comezón."
+                "Desasosegarse por una molestia moral. // Dicho de un problema, una preocupación, etc: desazonar, incomodar a alguien."
             ],
             "guid": "bZ/~Cy{?/F",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -2015,7 +2061,7 @@
             "__type__": "Note",
             "fields": [
                 "Pierrot",
-                "Personaje popular del teatro francés que se caracteriza por llevar un traje blanco muy amplio y con grandes botones.&nbsp;<img src=\"pierrot-aislado-fondo-transparente_1441-3290.jpg\">"
+                "Personaje popular del teatro francés que se caracteriza por llevar un traje blanco muy amplio y con grandes botones.<br>&nbsp;<img src=\"pierrot-aislado-fondo-transparente_1441-3290.jpg\">"
             ],
             "guid": "clA<^dOy_S",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -3157,7 +3203,7 @@
             "__type__": "Note",
             "fields": [
                 "Crisol",
-                "Recipiente hecho de material refractario, que se emplea para fundir alguna materia a temperatura muy elevada. // (Ingeniería) Cavidad que en la parte inferior de los hornos sirbe para recibir el metal fundido."
+                "Recipiente hecho de material refractario, que se emplea para fundir alguna materia a temperatura muy elevada. // (Ingeniería) Cavidad que en la parte inferior de los hornos sirve para recibir el metal fundido."
             ],
             "guid": "xrf)}ub#J:",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -3197,7 +3243,7 @@
             "__type__": "Note",
             "fields": [
                 "Funambulista / Funámbulo",
-                "acróbata que realiza ejercicios"
+                "Acróbata que realiza ejercicios"
             ],
             "guid": "|*!]3*W6L",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -3216,7 +3262,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "exordio",
+                "Exordio",
                 "Principio, inducción, preámbulo de una obra literaria, especialmente la primera parte del discurso oratorio, cuyo objetivo es atraer la atención y preparar el ánimo de los oyentes.&nbsp;"
             ],
             "guid": "mDPX2=++yI",
@@ -3226,7 +3272,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "devanear",
+                "Devanear",
                 "Decir o hacer desconciertos o desvaneos.&nbsp;"
             ],
             "guid": "F#(a0OGEY/",
@@ -3246,7 +3292,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "negligir",
+                "Negligir",
                 "Descuidar, pasar por alto, abandonar.&nbsp;"
             ],
             "guid": "HJv*0&)E=b",
@@ -3317,7 +3363,7 @@
             "__type__": "Note",
             "fields": [
                 "Deferencia ",
-                "Adhesión al dictamen ajeno, por respeto o por excesiva moderación. / conducta condescendiente"
+                "Adhesión al dictamen ajeno, por respeto o por excesiva moderación. // Conducta condescendiente."
             ],
             "guid": "SE9@R",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -3371,6 +3417,415 @@
             ],
             "guid": "tZ)PDr2.!`",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Devaneo",
+                "Delirio, desatino, desconcierto. // Distracción o pasatiempo vanos o reprensibles. // Amorío pasajero.&nbsp;"
+            ],
+            "guid": "ulq+.V*<zM",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defenestrar",
+                "<div>Arrojar a alguien por una ventana. // Destituir o expulsar a alguien de un puesto, cargo, situación, etc.</div>"
+            ],
+            "guid": "r4a^XQim|f",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Calorononón",
+                "<i>(Cór.)&nbsp;</i>Mucho calor<i>.</i>"
+            ],
+            "guid": "x%5Au3Wqhm",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Macilento",
+                "Flaco y descolorido."
+            ],
+            "guid": "c@*>n^7wo$",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Repantigarse",
+                "<i>prnl.</i>&nbsp;Arrellanarse en el asiento y extenderse para mayor comodidad."
+            ],
+            "guid": "qka@6Q@k^c",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ente",
+                "Lo que es, existe, o puede existir. // Colectividad considerada como unidad. // Sujeto ridículo o extravagante."
+            ],
+            "guid": "JnVt^Ns7-/",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": [
+                "Genérico"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Faena",
+                "Trabajo corporal. // Trabajo mental. // Quehacer&nbsp;<i>(usado más en plural). </i>// Acción y efecto de faenar (|| matar reses). // Mala pasada. // Servicio que se le hace a alguien."
+            ],
+            "guid": "CMPyNe-+de",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": [
+                "Genérico"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Descalabrar",
+                "Herir en la cabeza. // Herir aunque no sea en la cabeza. // Causar daño o perjuicio."
+            ],
+            "guid": "tWHoUFzY_k",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": [
+                "Genérico"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Descalabro",
+                "Contratiempo, infortunio, daño o pérdida."
+            ],
+            "guid": "G%=@d3x6>~",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bazofia",
+                "Mezcla de heces, sobras o desechos de comida. // Cosa soez, sucia y despreciable. // Comida poco apetitosa."
+            ],
+            "guid": "Mza312:6FG",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Soez",
+                "Bajo, grosero, indigno, vil."
+            ],
+            "guid": "s$Q`[kQ|mt",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": [
+                "Genérico"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Calibrar",
+                "Dar a un objeto el calibre que se desea. // Calcular o valorar algo (incluyendo el calibre de un objeto). // Ajustar, con la mayor exactitud posible, las indicaciones de un instrumento de medida con respecto a un patrón de referencia."
+            ],
+            "guid": "c+}g|}/2lB",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Calibre",
+                "Diámetro interior de muchos objetos huecos (tubos, conductos, cañerías, etc.) // Tamaño, importancia, clase."
+            ],
+            "guid": "z/aC00x8_",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vetusto, ta",
+                "Extremadamente viejo, anticuado."
+            ],
+            "guid": "y[gEpt$h!.",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dilación",
+                "<div>Demora, tardanza o detención de algo por algún tiempo. //&nbsp;<i>desus.</i> Dilatación, extensión, propagación.</div>"
+            ],
+            "guid": "v4qKF^z.6m",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Delación",
+                "<div>Acusación, denuncia. // <i>Der.</i> Llamamiento a aceptar o repudiar una herencia o legado.</div>"
+            ],
+            "guid": "y>]G0A6|+~",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escaramuza",
+                "Refriega de poca importancia sostenida especialmente por las avanzadas de los ejércitos. // Riña, disputa o contienda de poca importancia."
+            ],
+            "guid": "wwTIq><Yr5",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Carestía",
+                "Falta o escasez de algo, y, por antonomasia, de los víveres. // Precio alto de las cosas de uso común."
+            ],
+            "guid": "sk+e}R2g-",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deschavar",
+                "<i>(Coloq., Arg.)&nbsp;</i>Dar a conocer algo de una persona que no debía decirse por discreción o por ser un secreto."
+            ],
+            "guid": "y#=`Y*X#`F",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Consabido",
+                "Que es sabido por cuantos intervienen en un acto de comunicación. // Conocido, habitual, característico."
+            ],
+            "guid": "Lc3:C$w1q%",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chubasco",
+                "Chaparrón o aguacero con mucho viento. // Adversidad o contratiempo transitorios, pero que entorpecen o malogran algún designio. // <i>Mar. </i>Nubarrón oscuro y cargado de humedad que se presenta en el horizonte y que, empujado por un viento fuerte, puede resolverse en agua o viento."
+            ],
+            "guid": "eex(DRh!oC",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aguacero",
+                "Lluvia repentina, abundante, impetuosa, y de poca duración. // Sucesos y cosas molestas, como golpes, improperios, etc., que en gran cantidad caen sobre alguien."
+            ],
+            "guid": "n*FUm`<xa;",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Heliotropismo",
+                "Movimiento de ciertas plantas por el cual sus flores, tallos y hojas se orientan según la posición del Sol."
+            ],
+            "guid": "xcCLrg<~XL",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mutis",
+                "En el teatro, acción de salir de escena un actor. // Hecho de quedarse callada una persona. // <i>interj. coloq. U. </i>para imponer silencio."
+            ],
+            "guid": "mEXB%oe1Ge",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escaldar",
+                "Introducir algo en agua hirviendo. // Quemar algo o alguien con agua u otro líquido hirviendo. // Abrasar con fuego algo, como el hierro, poniéndolo muy rojo y encendido. // Dicho de la piel, especialmente la de las ingles: escocerse.&nbsp;"
+            ],
+            "guid": "xeeKWjx,`z",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "El verbo \"argüir\" se conjuga como el verbo {{c1::construir.}}"
+            ],
+            "guid": "nY(w_>n;9(",
+            "note_model_uuid": "7e6a8e0c-f853-11eb-ba01-541379669c27",
+            "tags": [
+                "Conjugación"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "El verbo \"satisfacer\" se conjuga igual que el verbo {{c1::hacer.}}"
+            ],
+            "guid": "m`R%B[(A3l",
+            "note_model_uuid": "7e6a8e0c-f853-11eb-ba01-541379669c27",
+            "tags": [
+                "Conjugación"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trinchar",
+                "Partir en trozos la comida para servirla. // coloq. Disponer de algo; decidir en algún asunto con aire y tono de satisfacción y autoridad."
+            ],
+            "guid": "mpUW2{x9He",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trinche",
+                "<i>(Bol., Col., Ec., El Salv., Hond., Méx. y Peru)&nbsp;</i>Tenedor."
+            ],
+            "guid": "z=U921<JM9",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bisoño",
+                "Dicho de la tropa o de un soldado: nuevo. // Nuevo o inexperto en cualquier arte u oficio."
+            ],
+            "guid": "lt{c-$w|RY",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pisco",
+                "Aguardiente de uva."
+            ],
+            "guid": "fIw,?9oeIH",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aguardiente",
+                "Bebida espiritosa que, por destilación, se saca del vino y de otras sustancias; es alcohol diluido en agua."
+            ],
+            "guid": "lH2bLj|ifb",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Saña",
+                "Furor, enojo ciego. // Intención rencorosa y cruel."
+            ],
+            "guid": "HHg=DhwJ/K",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ensañar",
+                "Deleitarse en causar el mayor daño y dolor posibles a quien ya no está en condiciones de defenderse."
+            ],
+            "guid": "hovlw:t).d",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Laurear",
+                "Coronar con laurel. // Premiar o galardonar a alguien."
+            ],
+            "guid": "k5X5KiW8B,",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Argüir",
+                "Aducir o alegar una razón o un argumento a favor o en contra de alguien o algo. // Dicho de una cosa: dejar ver con claridad otra o ser indicio, prueba o demostración de ella."
+            ],
+            "guid": "g*^&~#+G%&",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Almadraba",
+                "Pesca de atunes. // Lugar donde se pescan atunes y donde posteriormente se los prepara. // Red o cerco de redes con que se pescan atunes. // Tiempo en que se pesca el atún."
+            ],
+            "guid": "sCj<m>u;*o",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Etalonaje",
+                "<i>(Cinem.)&nbsp;</i>Trabajo de laboratorio en el que se hacen correciones de luz y color a una película después de su montaje y antes de la copia definitiva"
+            ],
+            "guid": "iNI0Zu.Vk4",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Doloso",
+                "Der. Engañoso, fraudulento"
+            ],
+            "guid": "$`fxD",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "El verbo \"llover\" se conjuga como {{c1::mover}}."
+            ],
+            "guid": "fR}Q)P1B.#",
+            "note_model_uuid": "7e6a8e0c-f853-11eb-ba01-541379669c27",
             "tags": []
         }
     ]
