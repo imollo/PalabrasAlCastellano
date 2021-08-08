@@ -59,6 +59,7 @@
     "extendRev": 50,
     "media_files": [
         "adefesio.jpg",
+        "carey.jpeg",
         "charol-a4436e17d5bd0bec4bd2178a86823362ffd1d75a.jpg",
         "pierrot-aislado-fondo-transparente_1441-3290.jpg",
         "ánfora2.jpg"
@@ -3826,6 +3827,126 @@
             ],
             "guid": "fR}Q)P1B.#",
             "note_model_uuid": "7e6a8e0c-f853-11eb-ba01-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Atanor",
+                "Cañería para conducir el agua"
+            ],
+            "guid": "m#<1Hd..4$",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Osezno, na",
+                "Cachorro/a del oso."
+            ],
+            "guid": "C0quWMb>|[",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cornucopia",
+                "vaso en&nbsp; forma de cuerno que representa la abundancia"
+            ],
+            "guid": "d;X@XJC-mM",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Baremo",
+                "(del matemático francés Barreme) Cuadro gradual establecido para evaluar los daños derivados de accidentes o enfermedades, o los méritos personales, la solvencia de empresas, etc. // Cuaderno o tabla de cuentas ajustadas // Lista o repertorio de tarifas."
+            ],
+            "guid": "A=D2yFX,zH",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "probeta",
+                "Tubo de cristal, con pie o sin él, cerrado por un extremo y destinado a contener líquidos o gases. //&nbsp;Máquina para probar la calidad y violencia de la pólvora. //&nbsp;Muestra de cualquier sustancia o material para probar su elasticidad, resistencia, etc."
+            ],
+            "guid": "HBXsza%Sl2",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Desovar",
+                "Dicho de la hembra de un pez o de un anfibio: Soltar sus huevos o huevas."
+            ],
+            "guid": "K/8Qh$r8+w",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pertrecho",
+                "Municiones, armas y demás instrumentos, máquinas, etc., necesarios para el uso de los soldados y defensa de las fortificaciones o de los buques de guerra. // Instrumentos necesarios para cualquier operación."
+            ],
+            "guid": "J];C,%4).v",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cadalso",
+                "<div>&nbsp;Tablado construido para la ejecución de la pena de muerte. // Tablado que se levantaba para un acto solemne. // Antiguamente, fortificación o baluarte de madera.</div>"
+            ],
+            "guid": "gyeMl6IZE5",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Retahíla",
+                "(de recta e hila) Serie de muchas cosas que están, suceden o se mencionan por su orden."
+            ],
+            "guid": "eVq9y1:Lwy",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zaherir",
+                "Decir o hacer algo a alguien con lo que se sienta humillado o mortificado."
+            ],
+            "guid": "O(iE^)8-{*",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Carey",
+                "Tortuga de mar, de hasta un metro de longitud, con las extremidades anteriores más largas que las posteriores, los pies palmeados, las mandíbulas festoneadas y el espaldar de color pardo o leonado y dividido en segmentos imbricados. Su carne es indigesta, pero sus huevos se aprecian como manjar excelente. Abunda en las costas de las Indias Orientales y del golfo de México, donde se pesca por el valor que tiene en el comercio.<div>// Materia córnea que se saca en chapas delgadas calentando por debajo las escamas del carey.</div><img src=\"carey.jpeg\"><br><br>"
+            ],
+            "guid": "c*Y_@L%M>.",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Resiliencia",
+                "Capacidad de adaptación de un ser vivo frente a un agente perturbador o un estado o situación adversos. // Capacidad de un material, mecanismo o sistema para recuperar su estado inicial cuando ha cesado la perturbación a la que había estado sometido."
+            ],
+            "guid": "l$@O;*.K5a",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
     ]
