@@ -64,7 +64,7 @@
         "pierrot-aislado-fondo-transparente_1441-3290.jpg",
         "ánfora2.jpg"
     ],
-    "mid": 1591302800276,
+    "mid": 1618326823648,
     "name": "Español",
     "note_models": [
         {
@@ -169,7 +169,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Condicionante"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}",
@@ -3373,16 +3375,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Osezno/a",
-                "Cachorro/a de oso. "
-            ],
-            "guid": "0Hdq1",
-            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Atanor",
                 "Cañería para conducir el agua "
             ],
@@ -3853,7 +3845,7 @@
             "__type__": "Note",
             "fields": [
                 "Cornucopia",
-                "vaso en&nbsp; forma de cuerno que representa la abundancia"
+                "Vaso en forma de cuerno que representa la abundancia."
             ],
             "guid": "d;X@XJC-mM",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -3872,7 +3864,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "probeta",
+                "Probeta",
                 "Tubo de cristal, con pie o sin él, cerrado por un extremo y destinado a contener líquidos o gases. //&nbsp;Máquina para probar la calidad y violencia de la pólvora. //&nbsp;Muestra de cualquier sustancia o material para probar su elasticidad, resistencia, etc."
             ],
             "guid": "HBXsza%Sl2",
@@ -3933,7 +3925,7 @@
             "__type__": "Note",
             "fields": [
                 "Carey",
-                "Tortuga de mar, de hasta un metro de longitud, con las extremidades anteriores más largas que las posteriores, los pies palmeados, las mandíbulas festoneadas y el espaldar de color pardo o leonado y dividido en segmentos imbricados. Su carne es indigesta, pero sus huevos se aprecian como manjar excelente. Abunda en las costas de las Indias Orientales y del golfo de México, donde se pesca por el valor que tiene en el comercio.<div>// Materia córnea que se saca en chapas delgadas calentando por debajo las escamas del carey.</div><img src=\"carey.jpeg\"><br><br>"
+                "Tortuga de mar, de hasta un metro de longitud, con las extremidades anteriores más largas que las posteriores, los pies palmeados, las mandíbulas festoneadas y el espaldar de color pardo o leonado y dividido en segmentos imbricados. Su carne es indigesta, pero sus huevos se aprecian como manjar excelente. Abunda en las costas de las Indias Orientales y del golfo de México, donde se pesca por el valor que tiene en el comercio. // Materia córnea que se saca en chapas delgadas calentando por debajo las escamas del ______.<br><img src=\"carey.jpeg\"><br>"
             ],
             "guid": "c*Y_@L%M>.",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -3946,6 +3938,56 @@
                 "Capacidad de adaptación de un ser vivo frente a un agente perturbador o un estado o situación adversos. // Capacidad de un material, mecanismo o sistema para recuperar su estado inicial cuando ha cesado la perturbación a la que había estado sometido."
             ],
             "guid": "l$@O;*.K5a",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Haiga",
+                "(coloq. Esp. p. us.) Automóvil muy grande y ostentoso, normalmente de origen norteamericano. (U. m. en sent. irón.)"
+            ],
+            "guid": "KBB23=hKib",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Amasijo",
+                "Porción de harina amasada para hacer pan. // Acción de amasar y de preparar o disponer las cosas necesarias para ello. // Mezcla desordenada de cosas heterogéneas."
+            ],
+            "guid": "t$G/`|&W5d",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Risotada",
+                "Carcajada, risa estrepitosa y descompuesta."
+            ],
+            "guid": "O2g0U",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Yugo",
+                "Ley o dominio superior que sujeta y obliga a obedecer. // Carga pesada, prisión o atadura. // Especie de horca, por debajo de la cual, en tiempos de la antigua Roma, hacían pasar sin armas a los enemigos vencidos."
+            ],
+            "guid": "u^Jrx$B55Q",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cuarentenar",
+                "Poner algo o a alguien en, o pasar un período de, cuarentena (|| aislamiento preventivo por razones sanitarias)."
+            ],
+            "guid": "z_e=Q9i[:^",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
