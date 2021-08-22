@@ -59,8 +59,10 @@
     "extendRev": 50,
     "media_files": [
         "adefesio.jpg",
+        "bicho-bicho.jpg",
         "carey.jpeg",
         "charol-a4436e17d5bd0bec4bd2178a86823362ffd1d75a.jpg",
+        "girándula.jpg",
         "pierrot-aislado-fondo-transparente_1441-3290.jpg",
         "ánfora2.jpg"
     ],
@@ -169,9 +171,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "Condicionante"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}",
@@ -1784,7 +1784,7 @@
             "__type__": "Note",
             "fields": [
                 "Rezumar",
-                "manifestar o dejar traslucir una cualidad o sentimiento."
+                "Trazumar // Manifestar o dejar traslucir una cualidad o sentimiento."
             ],
             "guid": "pr,-=6K#.i",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
@@ -3988,6 +3988,36 @@
                 "Poner algo o a alguien en, o pasar un período de, cuarentena (|| aislamiento preventivo por razones sanitarias)."
             ],
             "guid": "z_e=Q9i[:^",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tiritera",
+                "Temblor producido por el frío del ambiente o al iniciarse la fiebre."
+            ],
+            "guid": "VsfHJA}Ox",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bicho-bicho",
+                "<i>(Filipinas)</i>&nbsp;Dulce hecho con masa frita bañado en almíbar y azúcar.<br><img src=\"bicho-bicho.jpg\">"
+            ],
+            "guid": "d$2N@TZ!!t",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Girándula",
+                "Rueda llena de cohetes que gira despidiéndolos. // Artificio que se pone en las fuentes para arrojar el agua con agradable variedad.<br><img src=\"girándula.jpg\">"
+            ],
+            "guid": "dequ;zvfPe",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
