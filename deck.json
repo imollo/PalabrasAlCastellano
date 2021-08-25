@@ -4020,6 +4020,36 @@
             "guid": "dequ;zvfPe",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cogitación",
+                "Acción y efecto de pensar o meditar algo."
+            ],
+            "guid": "M^6WN_pSiE",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Incordio",
+                "Persona o cosa incómoda, agobiante, o muy molesta. // Tumor blando."
+            ],
+            "guid": "IRF8EVtcfd",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nomenclátor",
+                "Catálogo de nombres propios o de voces técnicas de una disciplina."
+            ],
+            "guid": "tE{Mu`7?rc",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
         }
     ]
 }
