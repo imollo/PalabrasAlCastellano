@@ -58,12 +58,16 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "Peciolo.jpg",
         "adefesio.jpg",
         "bicho-bicho.jpg",
         "carey.jpeg",
         "charol-a4436e17d5bd0bec4bd2178a86823362ffd1d75a.jpg",
         "girándula.jpg",
+        "pasquín.jpg",
         "pierrot-aislado-fondo-transparente_1441-3290.jpg",
+        "quimera.jpeg",
+        "ruibarbo.jpg",
         "ánfora2.jpg"
     ],
     "mid": 1618326823648,
@@ -187,6 +191,66 @@
             ],
             "type": 1,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "86b91c0f-31fc-11ec-8e8d-541379669c27",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Pregunta",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Respuesta",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Ejemplo",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "META-Básico",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Respuesta}}\n\n<hr id=answer>\n\n{{Ejemplo}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Pregunta}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
@@ -4048,6 +4112,610 @@
                 "Catálogo de nombres propios o de voces técnicas de una disciplina."
             ],
             "guid": "tE{Mu`7?rc",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ensalzar",
+                "Engrandecer. // Alabar."
+            ],
+            "guid": "glf;Bg@1%,",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Botamanga",
+                "Vuelta hacia fuera de los bajos de un pantalón."
+            ],
+            "guid": "dhLum}2k[*",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Felonía",
+                "Deslealtad, tración, acción fea."
+            ],
+            "guid": "OjR5x*5F4h",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Felón, felona",
+                "Que comete felonía."
+            ],
+            "guid": "N!q/8+43Wq",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apoteosis",
+                "1. Ensalzamiento de una persona con grander honores o alabanzas.&nbsp; <br><br>2. Manifestación de gran entusiasmo en algún momento de una celebración o acto colectivo.<br><br>3. (<i>Teatro)</i>&nbsp;En un espectáculo, escena culminante con que concluye la función y en la que participa todo el elenco.<br><br>4. En el mundo clásico, deificación de un héroe."
+            ],
+            "guid": "Ifx9h-48@0",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Deificar",
+                "Divinizar. // Ensalzar excesivamente a alguien.&nbsp;"
+            ],
+            "guid": "Id]}av/$wp",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ad referendum",
+                "<div>(Loc. lat.; literalmente 'para que se apruebe'.)<br><br></div>\n<div>(loc. adj.) <br>Dicho de la firma de un convenio o del convenio mismo: Sometido a la aprobación de un órgano superior. <br>(U. t. c. loc. adv.)</div>"
+            ],
+            "guid": "Gpfq{[Frsh",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ruibarbo",
+                "Especie de planta fanerógama que se cultiva como verdura por su tallo comestible.<br><br>Proviene de China y fue introducido en Europa&nbsp;en el siglo XIV&nbsp;por la Ruta de la Seda&nbsp;a través de puertos como Alepo&nbsp;y Esmirna.​ Más tarde, llegó al continente a través de nuevas rutas marítimas y también por vía terrestre cruzando Rusia.​ <br><br>Su altura es de hasta tres metros y consta de grandes hojas&nbsp;con peciolos&nbsp;gruesos cuyo grosor oscila entre 2 a 5 centímetros. El color del <br>peciolo varía entre el verde y el rojo, y es la única parte comestible <br>ya que sus hojas son potencialmente tóxicas.<br><br><img src=\"ruibarbo.jpg\">"
+            ],
+            "guid": "q5$lH$1)%E",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Peciolo",
+                "Rabillo que une la lámina&nbsp;de una hoja&nbsp;a su base foliar o al tallo<span style=\"font-size: 16.6667px;\">.</span>​ Falta en las hojas llamadas sésiles&nbsp;o sentadas.<br><br><img src=\"Peciolo.jpg\">"
+            ],
+            "guid": "i%R%um-3zp",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cabalístico",
+                "Perteneciente o relativo a la cábala. // De sentido enigmático."
+            ],
+            "guid": "vn~w`xp1?v",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cábala",
+                "1. Conjetura, suposición. <i>Hicieron todo tipo de _______ sobre el posible culpable.</i><br><br>2. Cálculo supersticioso para adivinar algo. <br><br>3. Intriga, maquinación. <i>Se valió de todo tipo de _______ para lograr su objetivo.</i>"
+            ],
+            "guid": "O(s4W1/;0Y",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cábala (Teología)",
+                "Conjunto de doctrinas teosóficas basadas en la Biblia, que, a través de un método esotérico de interpretación y transmitidas por vía de iniciación, pretende revelar a los iniciados doctrinas ocultas acerca de Dios y del mundo."
+            ],
+            "guid": "rzo7l>&>0>",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chanza",
+                "Dicho festivo y gracioso. // Hecho burlesco para recrear el ánimo o ejercitar el ingenio."
+            ],
+            "guid": "y!7W{Uh9;+",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acendrado",
+                "Dicho de algo como una cualidad, una conducta, etc.: Puro y sin mancha ni defecto."
+            ],
+            "guid": "eEqlM0l-0F",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acendrar",
+                "Depurar, purificar en la cendra los metales preciosos por la acción del fuego. // Depurar, purificar, limpiar, dejar sin mancha ni defecto."
+            ],
+            "guid": "xj5{{jk&IZ",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Liberar rehenes\"",
+                "<i>Coloq. </i>Defecar."
+            ],
+            "guid": "JHt#d%b4]F",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Descuajeringar",
+                "Desvencijar, desunir, desconcertar algo. // Dicho de las partes del cuertpo: relajarse por efecto del cansancio. <i>U.&nbsp;</i>sólo hiperbólicamente."
+            ],
+            "guid": "wvaUa+*0];",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Claque",
+                "Grupo de personas que asisten a un espectáculo con el fin de aplaudir en momentos señalados. // Grupo de personas que aplauden, defienden o alaban las acciones de otra buscando algún provecho."
+            ],
+            "guid": "y<~0;i1Eii",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cajetilla",
+                "Paquete de cigarrilos. // despect. coloqu. Hombre presumido y afectado."
+            ],
+            "guid": "rn?c/0iCzw",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Impostar",
+                "<i>Mús. </i>Fijar la voz en las cuerdas vocales para emitir el sonido en su plenitud sin vacilación ni temblor."
+            ],
+            "guid": "CROQYnfslo",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Llover",
+                "<i>intr. impers.&nbsp;</i>Caer agua de las nubes. // <i>intr.&nbsp;</i>Dicho de algunas cosas, como trabajos, desgracias, etc.: Venir, caer sobre alguien en abundancia. //&nbsp; <i>prnl.&nbsp;</i>DIcho de una bóveda, un techo o un cubierto: calarse con las lluvias."
+            ],
+            "guid": "G50<!+Frn4",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pasquín",
+                "Escrito anónimo, de carácter satírico y contenido político, que se fija en sitio público. // Hoja de papel con publicidad, propaganda u otro mensaje.<br><img src=\"pasquín.jpg\">"
+            ],
+            "guid": "hE|v&Q.%?9",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "¿De dónde proviene la palabra \"pasquín\"?",
+                "De la palabra italiana <i>Pasquino,</i>&nbsp;que es el nombre de una estatua en Roma que, en el siglo XVI se popularizó por ser el sitio en donde se colocaban anónimamente mensajes inflamatorios contra cardenales y otras autoridades.",
+                "<img src=\"pasquín.jpg\">"
+            ],
+            "guid": "b~D1TJbJCA",
+            "note_model_uuid": "86b91c0f-31fc-11ec-8e8d-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tincar",
+                "Golpear con la uña del dedo medio haciéndolo resbalar con violencia sobre la yema del pulgar. // En el juego de las canicas, impulsarlas con la uña del dedo pulgar."
+            ],
+            "guid": "Fjz*kf{YDr",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quimera",
+                "1. En la mitología clásica, monstruo imaginario que vomitaba llamas y tenía cabeza de león, vientre de cabra y cola de dragón.<br><br>2. Aquello que se propone a la imaginación como posible o verdadero, no siéndolo.<br><br><img src=\"quimera.jpeg\">"
+            ],
+            "guid": "Q![;0^vj9<",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Manlieva",
+                "Tributo que se recogía efectiva y prontamente de casa en casa o de mano en mano.&nbsp;"
+            ],
+            "guid": "bN*E3y<p)|",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Manlevar",
+                "<i>tr. desus.&nbsp;</i>&nbsp;Cargarse de deudas o contraerlas."
+            ],
+            "guid": "o]pJj*4BCN",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Latinajo",
+                "<i>despec. coloq. </i>Latín malo y macarrónico. // <i>despec. coloq. </i>Voz o frase latina usada en castellano."
+            ],
+            "guid": "EIz9$*c&3g",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Macarrónico",
+                "Dicho del latín: usado en forma burlesca y defectuosa. // Dicho de un idioma distinto del latín: usado en forma notoriamente incorrecta.&nbsp;"
+            ],
+            "guid": "}`/aFql+g",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Patraña",
+                "Invención urdida con propósito de engañar.&nbsp;"
+            ],
+            "guid": "O_AXlc/P}6",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sosiego",
+                "Quietud, tranquilidad, serenidad."
+            ],
+            "guid": "QG[Hm|RaB`",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tumefacto",
+                "Dicho de una parte del cuerpo humano: que tiene hinchazón."
+            ],
+            "guid": "d|nCXQb779",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Decúbito",
+                "Posición que toman las personas o los animales cuando se echan horizontalmente."
+            ],
+            "guid": "GP1=RU.*FI",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Supino",
+                "Que está tendido sobre el dorso. // Dicho de algo negativo: que se da en alto grado. <i>Estupidez ______.</i>"
+            ],
+            "guid": "tT1,I.!/yl",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Desazón",
+                "Malestar físico vago. // Disgusto, pesadumbre, inquietud interior."
+            ],
+            "guid": "P-fDgJu%>#",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escarmentar",
+                "Aprender de la experiencia propia o ajena para evitar caer en los mismos errores. // Imponer o aplicar un castigo a alguien, o corregirlo con rigor por haber cometido una falta."
+            ],
+            "guid": "uz(&Q6XCTu",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pauperizar",
+                "Empobrecer un país, una región, un grupo social, etc."
+            ],
+            "guid": "zaw^y@Y#Rq",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apenitas",
+                "<i>adv. El Salv. y Mex.&nbsp;</i>Muy difícilmente, casi no. // <i>adv. Mex. </i>Con mucha escasez."
+            ],
+            "guid": "s3$gsbT/xc",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Escamotear",
+                "Dicho de un jugador de manos: hacer que desaparezcan a ojos vistas las cosas que maneja. // Robar o quitar algo con agilidad y astucia. // Hacer desaparecer, quitar de en medio de un modo arbitrario o ilusorio algún asunto o dificultad."
+            ],
+            "guid": "pkG9zP)(R=",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Disfunción",
+                "Desarreglo en el funcionamiento de algo o en la función que le corresponde."
+            ],
+            "guid": "Iiw-l6g1sr",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Prelación",
+                "Antelación o preferencia con que algo debe ser atendido respecto de otra cosa con la cual se compara."
+            ],
+            "guid": "p;p>>5->l{",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tráfago",
+                "Conjunto de negocios, ocupaciones o faenas que ocasionan mucha fatiga o molestia. <i>Desbordado por el _______ de sus ocupaciones.</i>"
+            ],
+            "guid": "B*nwgt/v7P",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Conciliábulo",
+                "Concilio no convocado por autoridad legítima. // Junta o reunión para tratar de algo que se quiere mantener oculto."
+            ],
+            "guid": "w^@A3{!(3F",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Desidia",
+                "Negligencia, falta de cuidado."
+            ],
+            "guid": "Ash(h%>eHc",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Astroso",
+                "Desaseado o roto. // Vil, abyecto, despreciable."
+            ],
+            "guid": "qy&eH@lA*y",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caballada",
+                "Manada de caballos y yeguas. // Barbaridad, salvajada."
+            ],
+            "guid": "BQF#Kb[uLP",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Urbanita",
+                "Persona que vive acomodada a los usos y costumbres de la ciudad."
+            ],
+            "guid": "rxoD~]Cv}r",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pírrico",
+                "Dicho de un triunfo o de una victoria: obtenidos con más daño del vencedor que del vencido. // Conseguido con mucho trabajo o por un margen muy pequeño. // De poco valor o insuficiente, especialmente en relación al esfuerzo realizado."
+            ],
+            "guid": "EnjnXl?Q0i",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "¿De dónde proviene la palabra \"pírrico\"?",
+                "Es una alusión a Pirro, rey de Epiro, que derrotó en el año 279 a.C. a los romanos en Ásculo, pero a costa de sufrir numerosísimas bajas.",
+                ""
+            ],
+            "guid": "jBNV#xTMF?",
+            "note_model_uuid": "86b91c0f-31fc-11ec-8e8d-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aludir",
+                "Mencionar a alguien o algo o insinuar algo. // Dicho de una cosa: tener una relación, a veces velada, con alguien o con otra cosa. <i>El nombre de cianuro _____ a su color azul.</i>"
+            ],
+            "guid": "e/Sz;U!qyX",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Riel",
+                "Barra metálica que sirve de guía a un mecanismo, como el que corre y descorre las cortinas. // Carril de una vía férrea."
+            ],
+            "guid": "tA}YJ-%Nt&",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Alfeñique",
+                "Persona delicada de cuerpo y complexión. // Pasta de azúcar cocida y estirada en barras muy delgadas y retorcidas."
+            ],
+            "guid": "d<musCn15R",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tropel",
+                "Muchedumbre que se mueve en desorden ruidoso. // Aceleramiento confuso o desordenado. // Conjunto de cosas mal ordenadas o colocadas sin concierto."
+            ],
+            "guid": "FYh//=}TR(",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "¿De dónde proviene la palabra \"tropel\"?",
+                "De \"tropa\".",
+                ""
+            ],
+            "guid": "e:kpGcM=!k",
+            "note_model_uuid": "86b91c0f-31fc-11ec-8e8d-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "¿De dónde proviene la palabra \"atropellar\"?",
+                "De la palabra \"tropel\".",
+                ""
+            ],
+            "guid": "A{IK27h%yn",
+            "note_model_uuid": "86b91c0f-31fc-11ec-8e8d-541379669c27",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Encarnizado",
+                "Dicho de una batalla, una riña, etc. : muy porfiada y sangrienta. // Dicho de una cosa, especialmente de los ojos: encendida, ensangrentada, de color de sangre o carne."
+            ],
+            "guid": "dN034/Fy]B",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hermenéutica",
+                "Interpretación de los textos, originalmente los sagrados. // <i>Fil.</i>&nbsp;Teoría de la interpretación de los textos."
+            ],
+            "guid": "pH/@Sms}H!",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arrojo",
+                "Osadía, intrepidez."
+            ],
+            "guid": "Jl~%2",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Maniqueo",
+                "Que reduce la realidad a una oposición radical entre el Bien y el Mal."
+            ],
+            "guid": "QgPxH",
+            "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cerocracia",
+                "Sistema de gobierno en el que nadie gobierna."
+            ],
+            "guid": "=`s=E",
             "note_model_uuid": "a037db60-9c67-11eb-94c4-24ee9ab15887",
             "tags": []
         }
